@@ -1,7 +1,6 @@
 import React from "react";
 import type { Metadata } from "next";
 import Link from "next/link";
-import Image from "next/image";
 import Navbar from "@/components/layout/Navbar";
 import Footer from "@/components/layout/Footer";
 import CTASection from "@/components/ui/CTASection";
@@ -9,14 +8,8 @@ import ResourceCatalog from "@/components/resources/ResourceCatalog";
 import { api } from "@/lib/api";
 import {
   BookOpen,
-  Sparkles,
-  Newspaper,
-  ShieldCheck,
-  FileCheck2,
   ArrowRight,
-  Download,
-  CheckCircle2,
-  ExternalLink
+  CheckCircle2
 } from "lucide-react";
 
 export const metadata: Metadata = {

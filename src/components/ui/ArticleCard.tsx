@@ -1,7 +1,7 @@
 import React from "react";
 import Link from "next/link";
 import Image from "next/image";
-import { Clock, BookOpen, ArrowRight, User, Sparkles } from "lucide-react";
+import { Clock, ArrowRight, User, Sparkles } from "lucide-react";
 import { ArticleItem } from "@/lib/api";
 
 interface ArticleCardProps {

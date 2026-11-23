@@ -6,7 +6,6 @@ import {
   Send,
   CheckCircle2,
   AlertCircle,
-  PhoneCall,
   Loader2,
   ExternalLink,
   MessageSquare

@@ -1,6 +1,5 @@
 import React from "react";
 import type { Metadata } from "next";
-import Link from "next/link";
 import Navbar from "@/components/layout/Navbar";
 import Footer from "@/components/layout/Footer";
 import CTASection from "@/components/ui/CTASection";
@@ -10,11 +9,8 @@ import {
   GraduationCap,
   Building2,
   Award,
-  CheckCircle2,
-  ArrowRight,
   BookOpen,
   Briefcase,
-  FileCheck2,
   Handshake
 } from "lucide-react";
 

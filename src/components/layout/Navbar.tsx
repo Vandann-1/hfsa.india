@@ -20,7 +20,6 @@ import {
   BookOpen,
   Factory,
   FileCheck2,
-  ExternalLink,
   ChevronRight,
   Sparkle
 } from "lucide-react";

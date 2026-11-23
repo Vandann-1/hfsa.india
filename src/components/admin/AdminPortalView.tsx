@@ -18,23 +18,12 @@ import {
   Settings,
   ShieldCheck,
   Search,
-  Filter,
   CheckCircle2,
-  Clock,
-  Phone,
-  Mail,
-  User,
-  Building,
-  AlertCircle,
   ExternalLink,
-  ChevronRight,
-  TrendingUp,
   RefreshCw,
-  LogOut,
   Save,
   Award,
-  Layers,
-  Sparkles
+  Layers
 } from "lucide-react";
 
 interface AdminPortalViewProps {
@@ -58,8 +47,8 @@ export default function AdminPortalView({
 
   const [metrics, setMetrics] = useState<DashboardMetrics>(initialMetrics);
   const [enquiries, setEnquiries] = useState<EnquiryItem[]>(initialEnquiries);
-  const [courses, setCourses] = useState<CourseItem[]>(initialCourses);
-  const [articles, setArticles] = useState<ArticleItem[]>(initialArticles);
+  const [courses] = useState<CourseItem[]>(initialCourses);
+  const [articles] = useState<ArticleItem[]>(initialArticles);
 
   // Enquiry filters
   const [enquiryStatusFilter, setEnquiryStatusFilter] = useState<string>("all");
@@ -122,7 +111,8 @@ export default function AdminPortalView({
       });
       setStatusUpdateMessage(`Status updated to "${newStatus.replace('_', ' ')}".`);
       setTimeout(() => setStatusUpdateMessage(""), 3000);
-    } catch (err: any) {
+    } catch (_err) {
+      console.error(_err);
       setStatusUpdateMessage("Unable to update status.");
     } finally {
       setUpdatingStatus(false);

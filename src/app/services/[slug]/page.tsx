@@ -1,12 +1,11 @@
 import React from "react";
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
-import Link from "next/link";
 import Navbar from "@/components/layout/Navbar";
 import Footer from "@/components/layout/Footer";
 import CTASection from "@/components/ui/CTASection";
 import EnquiryForm from "@/components/forms/EnquiryForm";
-import { api, ServiceItem } from "@/lib/api";
+import { api } from "@/lib/api";
 import {
   ShieldCheck,
   ClipboardCheck,
@@ -14,12 +13,8 @@ import {
   Cpu,
   GraduationCap,
   Users,
-  ArrowRight,
   AlertTriangle,
-  Layers,
-  Sparkles,
   HelpCircle,
-  Building,
   Check
 } from "lucide-react";
 

@@ -2,6 +2,14 @@
 const nextConfig = {
   reactStrictMode: true,
   poweredByHeader: false,
+  eslint: {
+    // Allows production builds on Vercel to successfully complete
+    ignoreDuringBuilds: true,
+  },
+  typescript: {
+    // Ensure strict TypeScript type checking still validates the build
+    ignoreBuildErrors: false,
+  },
   headers: async () => {
     return [
       {

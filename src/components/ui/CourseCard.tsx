@@ -2,13 +2,11 @@ import React from "react";
 import Link from "next/link";
 import Image from "next/image";
 import {
-  GraduationCap,
   Clock,
   Laptop,
   CheckCircle,
   ArrowRight,
   Award,
-  Sparkles
 } from "lucide-react";
 import { CourseItem } from "@/lib/api";
 

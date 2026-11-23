@@ -9,14 +9,7 @@ import { api } from "@/lib/api";
 import {
   ShieldCheck,
   CheckCircle2,
-  ArrowRight,
-  ClipboardCheck,
-  Cpu,
-  GraduationCap,
-  Users,
-  Search,
-  Building2,
-  FileText
+  ArrowRight
 } from "lucide-react";
 
 export const metadata: Metadata = {

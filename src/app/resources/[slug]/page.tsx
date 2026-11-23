@@ -13,9 +13,6 @@ import {
   User,
   Calendar,
   ArrowLeft,
-  Share2,
-  BookOpen,
-  CheckCircle2,
   ShieldCheck,
   ArrowRight,
   Sparkles

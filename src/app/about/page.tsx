@@ -12,7 +12,6 @@ import {
   CheckCircle2,
   Users,
   Award,
-  BookOpen,
   ArrowRight,
   UserCheck,
   HeartHandshake,

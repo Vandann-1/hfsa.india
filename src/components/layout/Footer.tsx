@@ -2,7 +2,6 @@ import React from "react";
 import Link from "next/link";
 import Image from "next/image";
 import {
-  ShieldCheck,
   Mail,
   Phone,
   MapPin,
@@ -11,8 +10,6 @@ import {
   ExternalLink,
   GraduationCap,
   Sparkles,
-  CheckCircle2,
-  FileCheck2,
   Award
 } from "lucide-react";
 

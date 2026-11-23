@@ -1,25 +1,16 @@
 import React from "react";
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
-import Link from "next/link";
 import Navbar from "@/components/layout/Navbar";
 import Footer from "@/components/layout/Footer";
 import CTASection from "@/components/ui/CTASection";
 import EnquiryForm from "@/components/forms/EnquiryForm";
-import { api, CourseItem } from "@/lib/api";
+import { api } from "@/lib/api";
 import {
-  GraduationCap,
-  Clock,
-  Laptop,
-  CheckCircle2,
   Award,
-  BookOpen,
-  ArrowRight,
   ShieldCheck,
-  FileCheck2,
   Users,
-  Check,
-  Building
+  Check
 } from "lucide-react";
 
 interface CourseDetailPageProps {

@@ -9,7 +9,6 @@ import {
   FALLBACK_INDUSTRIES,
   FALLBACK_ARTICLES,
   FALLBACK_TEAM,
-  FALLBACK_SETTINGS,
   FALLBACK_METRICS,
   FALLBACK_ENQUIRIES
 } from './mockData';
@@ -282,7 +281,7 @@ export const api = {
   },
 
   // Enquiries (Create)
-  async submitEnquiry(payload: EnquiryInput): Promise<{ success: boolean; message: string; data?: any }> {
+  async submitEnquiry(payload: EnquiryInput): Promise<{ success: boolean; message: string; data?: unknown }> {
     try {
       const res = await fetch('/api/enquiries', {
         method: 'POST',
@@ -294,7 +293,8 @@ export const api = {
         throw new Error(data.message || 'Failed to submit enquiry.');
       }
       return data;
-    } catch (err: any) {
+    } catch (_err) {
+      console.error('Enquiry submission error fallback:', _err);
       return {
         success: true,
         message: 'Thank you for reaching out to Haridra Food Safety Assurance. Your enquiry has been received and prioritized by our technical team.',

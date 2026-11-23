@@ -10,11 +10,7 @@ import {
   GraduationCap,
   Award,
   CheckCircle2,
-  Users,
-  ShieldCheck,
-  BookOpen,
-  ArrowRight,
-  ExternalLink
+  ArrowRight
 } from "lucide-react";
 
 export const metadata: Metadata = {

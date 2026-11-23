@@ -17,22 +17,10 @@ import {
   GraduationCap,
   Users,
   Search,
-  BookOpen,
   Compass,
   FileCheck2,
-  Sparkles,
-  PhoneCall,
   Activity,
-  Factory,
-  Utensils,
-  Truck,
-  Store,
-  School,
-  Flame,
   BadgeCheck,
-  CheckCircle,
-  Clock,
-  Layers,
   FlaskConical,
   Sparkle
 } from "lucide-react";
@@ -40,7 +28,7 @@ import {
 export const revalidate = 60;
 
 export default async function HomePage() {
-  const [services, courses, industries, articles] = await Promise.all([
+  const [services, courses, , articles] = await Promise.all([
     api.getServices(),
     api.getCourses(),
     api.getIndustries(),
@@ -122,16 +110,6 @@ export default async function HomePage() {
       icon: CheckCircle2,
     },
   ];
-
-  const industryIcons: Record<string, React.ElementType> = {
-    "food-manufacturing": Factory,
-    "food-processing": Flame,
-    "hospitality-hotels": Building,
-    "restaurants-cloud-kitchens": Utensils,
-    "catering-services": Truck,
-    "food-retail": Store,
-    "educational-institutions": School,
-  };
 
   return (
     <>

@@ -11,14 +11,9 @@ import {
   MapPin,
   Clock,
   MessageSquare,
-  ShieldCheck,
   CheckCircle2,
   ExternalLink,
-  GraduationCap,
-  Sparkles,
-  ArrowRight,
   Headphones,
-  Check
 } from "lucide-react";
 
 export const metadata: Metadata = {

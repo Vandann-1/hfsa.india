@@ -66,9 +66,8 @@ export default async function IndustriesPage() {
         {/* Industry Detailed Sections */}
         <section className="py-20 bg-surface-offwhite">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 space-y-16">
-            {industries.map((ind, index) => {
+            {industries.map((ind) => {
               const Icon = iconMap[ind.slug] || Factory;
-              const isEven = index % 2 === 0;
 
               return (
                 <div
