@@ -43,5 +43,2067 @@
       "created_at": "2026-11-19T16:20:00Z",
       "updated_at": "2026-11-20T11:00:00Z"
     }
+  ],
+  "courses": [
+    {
+      "id": 101,
+      "title": "Award in Basic Food Safety",
+      "slug": "award-in-basic-food-safety",
+      "code": "HFSA-AWD-01",
+      "category_name": "Professional Food Safety Training",
+      "duration": "Provided upon enquiry / Program schedule",
+      "delivery_mode": "Classroom / Online / Corporate On-Site",
+      "fee": "Contact for fee details & institutional concessions",
+      "is_eosh_accredited": false,
+      "accreditation_details": "Professional Qualification issued under Haridra Food Safety Assurance Industry Standards.",
+      "short_description": "Essential foundational training for food handlers covering personal hygiene, cross-contamination, temperature controls, and basic workplace sanitization.",
+      "full_description": "The Award in Basic Food Safety establishes the critical baseline hygiene competencies required by anyone who stores, prepares, serves, or handles food products. Participants learn how bacteria grow and spread, how personal hygiene protects consumers, the vital significance of the temperature danger zone, and effective cleaning and disinfection routines.",
+      "target_audience": [
+        "Entry-level food handlers and kitchen assistants",
+        "Food service and catering service staff",
+        "Food manufacturing line operatives",
+        "Cloud kitchen and delivery packaging teams"
+      ],
+      "learning_outcomes": [
+        "Understand how foodborne pathogens cause disease and how to prevent their transmission",
+        "Demonstrate correct handwashing, protective apparel, and personal hygiene discipline",
+        "Control food holding, cooking, and chilling temperatures accurately",
+        "Implement proper two-stage cleaning and chemical sanitizing routines"
+      ],
+      "curriculum": [
+        {
+          "module": "Module 1",
+          "title": "Introduction to Food Safety & Pathogens",
+          "topics": [
+            "The food safety challenge",
+            "Bacteria, viruses, and physical contaminants",
+            "High-risk foods and spoilage"
+          ]
+        },
+        {
+          "module": "Module 2",
+          "title": "Personal Hygiene Standards",
+          "topics": [
+            "Protective workwear and hairnets",
+            "Handwashing stages and frequency",
+            "Reporting illness and wound care"
+          ]
+        },
+        {
+          "module": "Module 3",
+          "title": "Time & Temperature Control",
+          "topics": [
+            "The temperature danger zone",
+            "Cooking, reheating, and chilling standards",
+            "Calibrating and using food probe thermometers"
+          ]
+        },
+        {
+          "module": "Module 4",
+          "title": "Cleaning, Disinfection & Safe Storage",
+          "topics": [
+            "Detergents vs disinfectants",
+            "Color-coded cleaning tools",
+            "Dry, chilled, and frozen storage protocols"
+          ]
+        }
+      ],
+      "eligibility": "Open to all working food handlers, kitchen staff, and fresh entrants to the food sector.",
+      "certificate_details": "Haridra Award Certificate of Competence issued upon successful completion of continuous assessment and end-of-program test.",
+      "featured": true,
+      "is_published": true,
+      "image_url": "/images/food-safety-training-lab.jpg",
+      "program_type": "professional_award"
+    },
+    {
+      "id": 102,
+      "title": "Award in Food Safety Management",
+      "slug": "award-in-food-safety-management",
+      "code": "HFSA-AWD-02",
+      "category_name": "Professional Food Safety Training",
+      "duration": "Provided upon enquiry / Program schedule",
+      "delivery_mode": "Classroom / Live Online / Corporate On-Site",
+      "fee": "Contact for fee details & institutional concessions",
+      "is_eosh_accredited": false,
+      "accreditation_details": "Professional Qualification issued under Haridra Food Safety Assurance Industry Standards.",
+      "short_description": "Advanced program for plant managers and QA leads to design, verify, and maintain compliant food safety management frameworks.",
+      "full_description": "The Award in Food Safety Management is engineered for team leaders, department managers, and compliance professionals. It provides systemic tools to design, audit, and sustain comprehensive food safety frameworks, including prerequisite program architecture, hazard analysis methodologies, corrective action tracking, and fostering an active food safety culture.",
+      "target_audience": [
+        "Operations Managers & Quality Assurance Leads",
+        "Food Business Owners & General Managers",
+        "Production Executives and Shift In-Charges",
+        "Food Safety Management System (FSMS) Team Leaders"
+      ],
+      "learning_outcomes": [
+        "Design and maintain compliant food safety management systems",
+        "Conduct systematic hazard analysis across complex production lines",
+        "Establish verified CCP monitoring and deviation protocols",
+        "Drive behavioral food safety culture across diverse operational teams"
+      ],
+      "curriculum": [
+        {
+          "module": "Module 1",
+          "title": "Food Safety Governance & Systems",
+          "topics": [
+            "Management commitment and leadership",
+            "Statutory compliance obligations",
+            "FSMS documentation structure"
+          ]
+        },
+        {
+          "module": "Module 2",
+          "title": "Hazard Analysis & Risk Assessment",
+          "topics": [
+            "Biological, chemical, physical, and allergen risk ranking",
+            "Defining critical control points (CCPs)",
+            "Validation of critical operational limits"
+          ]
+        },
+        {
+          "module": "Module 3",
+          "title": "Verification, Audits & Non-Conformance",
+          "topics": [
+            "Internal verification schedules",
+            "Root cause analysis (5-Whys / Fishbone)",
+            "CAPA design and implementation"
+          ]
+        },
+        {
+          "module": "Module 4",
+          "title": "Food Safety Culture & Continuous Improvement",
+          "topics": [
+            "Behavioral compliance indicators",
+            "Employee engagement and training",
+            "Management review and KPI tracking"
+          ]
+        }
+      ],
+      "eligibility": "Supervisory or managerial experience in food operations or relevant science degree.",
+      "certificate_details": "Haridra Professional Award in Food Safety Management upon passing technical evaluation.",
+      "featured": true,
+      "is_published": true,
+      "image_url": "/images/training-btech-food-tech.jpg",
+      "program_type": "professional_award"
+    },
+    {
+      "id": 103,
+      "title": "Award in Food Hygiene and Safety Management",
+      "slug": "award-in-food-hygiene-and-safety-management",
+      "code": "HFSA-AWD-03",
+      "category_name": "Professional Food Safety Training",
+      "duration": "Provided upon enquiry / Program schedule",
+      "delivery_mode": "Classroom / Online / Corporate On-Site",
+      "fee": "Contact for fee details & institutional concessions",
+      "is_eosh_accredited": false,
+      "accreditation_details": "Professional Qualification issued under Haridra Food Safety Assurance Industry Standards.",
+      "short_description": "Comprehensive hygiene management covering sanitation engineering, chemical safety, environmental verification, and pest exclusion.",
+      "full_description": "The Award in Food Hygiene and Safety Management focuses on deep sanitation governance. Participants gain expert understanding of chemical titration, sanitation standard operating procedures (SSOPs), hygiene zoning, bio-film eradication, ATP swab testing, and professional integrated pest management (IPM).",
+      "target_audience": [
+        "Hygiene Officers and Housekeeping In-Charges",
+        "Sanitation Supervisors in Processing Plants",
+        "Facility Managers in Food Enterprises",
+        "Hospitality F&B Hygiene Controllers"
+      ],
+      "learning_outcomes": [
+        "Author and enforce rigorous Sanitation SOPs (SSOPs)",
+        "Select and handle food-grade detergents and sanitizing chemicals safely",
+        "Verify sanitation effectiveness using ATP bioluminescence and microbiological swabs",
+        "Oversee integrated pest management contracts and preventative barriers"
+      ],
+      "curriculum": [
+        {
+          "module": "Module 1",
+          "title": "Industrial Sanitation & Detergent Science",
+          "topics": [
+            "Chemical classifications and modes of action",
+            "Dilution ratios and titration testing",
+            "Safety Data Sheets (SDS) and storage safety"
+          ]
+        },
+        {
+          "module": "Module 2",
+          "title": "SSOP Authoring & Scheduling",
+          "topics": [
+            "Pre-operational, operational, and post-operational cleaning",
+            "Master sanitation schedules",
+            "Color-coded equipment protocols"
+          ]
+        },
+        {
+          "module": "Module 3",
+          "title": "Sanitation Verification & Swab Testing",
+          "topics": [
+            "Visual inspection benchmarks",
+            "ATP bioluminescence rapid testing",
+            "Environmental pathogen monitoring (Listeria/Salmonella swabs)"
+          ]
+        },
+        {
+          "module": "Module 4",
+          "title": "Pest Exclusion & Integrated Management",
+          "topics": [
+            "Pest biology and entry prevention",
+            "Electronic insect killer maintenance",
+            "Bait station maps and trend auditing"
+          ]
+        }
+      ],
+      "eligibility": "Prior working knowledge of food hygiene or food operations supervisory experience.",
+      "certificate_details": "Haridra Award Certificate in Food Hygiene and Safety Management.",
+      "featured": false,
+      "is_published": true,
+      "image_url": "/images/training-bsc-food-science.jpg",
+      "program_type": "professional_award"
+    },
+    {
+      "id": 104,
+      "title": "Award in Food Safety Catering",
+      "slug": "award-in-food-safety-catering",
+      "code": "HFSA-AWD-04",
+      "category_name": "Professional Food Safety Training",
+      "duration": "Provided upon enquiry / Program schedule",
+      "delivery_mode": "Classroom / On-Site Commercial Kitchen / Hybrid",
+      "fee": "Contact for fee details & institutional concessions",
+      "is_eosh_accredited": false,
+      "accreditation_details": "Professional Qualification issued under Haridra Food Safety Assurance Industry Standards.",
+      "short_description": "Tailored food safety standards for commercial kitchens, high-volume banqueting, hotel dining, and QSR restaurant operations.",
+      "full_description": "Specifically developed for catering professionals, executive chefs, and restaurant managers, this course tackles the intense real-world pressures of high-volume food service. It explores allergen segregation, hot holding thresholds, cooling curves, safe thawing methods, cross-contamination prevention, and kitchen staff monitoring.",
+      "target_audience": [
+        "Executive Chefs, Sous Chefs & Kitchen In-Charges",
+        "Banquet & Catering Operations Managers",
+        "Quick Service Restaurant (QSR) Supervisors",
+        "Institutional and Industrial Canteen Operators"
+      ],
+      "learning_outcomes": [
+        "Prevent cross-contamination during peak culinary service hours",
+        "Implement robust allergen controls and recipe ingredient transparency",
+        "Enforce mandatory cooking, holding, and cooling temperature standards",
+        "Conduct daily opening and closing kitchen food safety checks"
+      ],
+      "curriculum": [
+        {
+          "module": "Module 1",
+          "title": "Catering Hazards & Cross-Contamination",
+          "topics": [
+            "Raw and cooked food separation",
+            "Chopping board and knife color-coding",
+            "High-risk prep staging"
+          ]
+        },
+        {
+          "module": "Module 2",
+          "title": "Allergen Management in Commercial Dining",
+          "topics": [
+            "The 14 major allergens",
+            "Dedicated allergen prep kits",
+            "Communicating dietary risks with service staff"
+          ]
+        },
+        {
+          "module": "Module 3",
+          "title": "Temperature Management During Service",
+          "topics": [
+            "Safe thawing protocols",
+            "Core cooking temperatures (75°C standard)",
+            "Hot buffet holding (above 63°C) and chill holding"
+          ]
+        },
+        {
+          "module": "Module 4",
+          "title": "Kitchen Due Diligence Records",
+          "topics": [
+            "Daily probe calibration records",
+            "Fridge and freezer temperature logs",
+            "Hygiene audit checklists"
+          ]
+        }
+      ],
+      "eligibility": "Chefs, cooks, and hospitality professionals working in food preparation or catering.",
+      "certificate_details": "Haridra Award in Food Safety Catering.",
+      "featured": true,
+      "is_published": true,
+      "image_url": "/images/training-bsc-hotel-mgmt.jpg",
+      "program_type": "professional_award"
+    },
+    {
+      "id": 105,
+      "title": "Award in Food Safety Manufacturing",
+      "slug": "award-in-food-safety-manufacturing",
+      "code": "HFSA-AWD-05",
+      "category_name": "Professional Food Safety Training",
+      "duration": "Provided upon enquiry / Program schedule",
+      "delivery_mode": "Classroom / Manufacturing Plant On-Site / Live Online",
+      "fee": "Contact for fee details & institutional concessions",
+      "is_eosh_accredited": false,
+      "accreditation_details": "Professional Qualification issued under Haridra Food Safety Assurance Industry Standards.",
+      "short_description": "Focused industrial compliance for food processing lines, raw material intake, packaging seals, and automated production.",
+      "full_description": "Geared towards manufacturing plant personnel, this award delivers practical training on factory hygiene zoning, foreign material detection (metal detectors, X-rays, magnets), equipment cleanability, water and air filtration, and prerequisite manufacturing controls (GMP).",
+      "target_audience": [
+        "Production Supervisors and Factory Team Leads",
+        "Packaging and Processing Machine Operators",
+        "Maintenance and Plant Engineering Technicians",
+        "Quality Assurance Line Inspectors"
+      ],
+      "learning_outcomes": [
+        "Maintain Good Manufacturing Practices (GMP) across automated processing lines",
+        "Operate and test metal detectors and optical sorting checkpoints",
+        "Eliminate physical and foreign matter contamination sources",
+        "Participate effectively in plant internal hygiene audits"
+      ],
+      "curriculum": [
+        {
+          "module": "Module 1",
+          "title": "Factory Layout & Hygiene Zoning",
+          "topics": [
+            "Low, medium, and high-care zoning",
+            "Air pressurization and HEPA filtration",
+            "Drainage and water quality standards"
+          ]
+        },
+        {
+          "module": "Module 2",
+          "title": "Foreign Body Prevention & Detection",
+          "topics": [
+            "Glass and brittle plastic policies",
+            "Metal detector validation with test wands",
+            "Sieves, filters, and magnetic traps"
+          ]
+        },
+        {
+          "module": "Module 3",
+          "title": "Packaging Line Integrity",
+          "topics": [
+            "Seal integrity inspection",
+            "Date code and batch printing verification",
+            "Packaging defect classification"
+          ]
+        },
+        {
+          "module": "Module 4",
+          "title": "Shift Changeovers & Line Clearance",
+          "topics": [
+            "Allergen washdown and line clearance checklists",
+            "Temporary maintenance sign-offs",
+            "Production log sheets"
+          ]
+        }
+      ],
+      "eligibility": "Manufacturing plant personnel or food technology graduates.",
+      "certificate_details": "Haridra Award in Food Safety Manufacturing.",
+      "featured": true,
+      "is_published": true,
+      "image_url": "/images/training-btech-food-tech.jpg",
+      "program_type": "professional_award"
+    },
+    {
+      "id": 106,
+      "title": "Award in Food Safety Retail",
+      "slug": "award-in-food-safety-retail",
+      "code": "HFSA-AWD-06",
+      "category_name": "Professional Food Safety Training",
+      "duration": "Provided upon enquiry / Program schedule",
+      "delivery_mode": "Classroom / Retail Floor On-Site / Online",
+      "fee": "Contact for fee details & institutional concessions",
+      "is_eosh_accredited": false,
+      "accreditation_details": "Professional Qualification issued under Haridra Food Safety Assurance Industry Standards.",
+      "short_description": "Retail food assurance covering display refrigeration, shelf-life verification, date coding, customer handling, and FIFO inventory.",
+      "full_description": "The Award in Food Safety Retail addresses the critical customer-facing stage of the supply chain. Participants learn display chilling standards, date coding enforcement, FIFO/FEFO rotation, raw versus ready-to-eat separation in display counters, and handling customer food safety inquiries.",
+      "target_audience": [
+        "Supermarket and Hypermarket Department Leads",
+        "Cold Room and Warehousing Supervisors",
+        "Delicatessen, Bakery, and Meat Counter Staff",
+        "Retail Operations Area Managers"
+      ],
+      "learning_outcomes": [
+        "Ensure display chillers and freezers maintain critical cold chain limits",
+        "Enforce First-In, First-Out (FIFO) and date code compliance",
+        "Prevent customer-handling contamination in self-service displays",
+        "Manage damaged packaging and stock quarantine procedures"
+      ],
+      "curriculum": [
+        {
+          "module": "Module 1",
+          "title": "Retail Display Temperature Management",
+          "topics": [
+            "Open chiller load limits and airflow",
+            "Defrost cycles and temperature logging",
+            "Cold room storage standards"
+          ]
+        },
+        {
+          "module": "Module 2",
+          "title": "Date Coding & Stock Rotation",
+          "topics": [
+            "Use By vs Best Before distinctions",
+            "FIFO and FEFO inventory execution",
+            "Damaged goods write-off and quarantine"
+          ]
+        },
+        {
+          "module": "Module 3",
+          "title": "Counter Hygiene & Ready-to-Eat Foods",
+          "topics": [
+            "Meat, deli, and bakery service hygiene",
+            "Glove usage and utensil sanitizing",
+            "Cross-contamination in retail service"
+          ]
+        },
+        {
+          "module": "Module 4",
+          "title": "Customer Interaction & Recall Handling",
+          "topics": [
+            "Addressing customer hygiene inquiries",
+            "Store-level product recall withdrawal steps",
+            "Health inspector liaison"
+          ]
+        }
+      ],
+      "eligibility": "Retail store staff, supermarket department leads, or food merchandising personnel.",
+      "certificate_details": "Haridra Award in Food Safety Retail.",
+      "featured": false,
+      "is_published": true,
+      "image_url": "/images/food-safety-training-lab.jpg",
+      "program_type": "professional_award"
+    },
+    {
+      "id": 107,
+      "title": "Award in Food Process Safety Management",
+      "slug": "award-in-food-process-safety-management",
+      "code": "HFSA-AWD-07",
+      "category_name": "Professional Food Safety Training",
+      "duration": "Provided upon enquiry / Program schedule",
+      "delivery_mode": "Classroom / Technical Seminar / Hybrid Online",
+      "fee": "Contact for fee details & institutional concessions",
+      "is_eosh_accredited": false,
+      "accreditation_details": "Professional Qualification issued under Haridra Food Safety Assurance Industry Standards.",
+      "short_description": "Technical process control covering thermal processing validation, continuous pasteurization, aseptic lines, and process parameters.",
+      "full_description": "Designed for process engineers, food technologists, and technical specialists, this program dives deep into thermal process calculations (F0, D-value, z-value), continuous pasteurizer diversion valves, pressure monitoring, water activity validation, and automated process parameter verification.",
+      "target_audience": [
+        "Process Engineers & Food Technologists",
+        "Thermal Processing Technicians & Retort Operators",
+        "Continuous Pasteurization & UHT Plant Operators",
+        "Technical QA & Process Validation Leads"
+      ],
+      "learning_outcomes": [
+        "Validate thermal destruction curves and lethal thermal process times",
+        "Monitor automated diversion valves and safety interlocks",
+        "Evaluate aseptic packaging barrier parameters and micro-filtration",
+        "Troubleshoot process deviation events and execute containment"
+      ],
+      "curriculum": [
+        {
+          "module": "Module 1",
+          "title": "Thermal Lethality Kinetics",
+          "topics": [
+            "Microbial death curves (D and z values)",
+            "F0 value calculation and retort cook charts",
+            "Cold-spot temperature validation"
+          ]
+        },
+        {
+          "module": "Module 2",
+          "title": "Continuous Flow Processing Systems",
+          "topics": [
+            "Plate heat exchangers and holding tubes",
+            "Flow diversion valves and pressure differentials",
+            "Aseptic sterile surge tank maintenance"
+          ]
+        },
+        {
+          "module": "Module 3",
+          "title": "Non-Thermal Process Controls",
+          "topics": [
+            "High pressure processing (HPP) basics",
+            "Membrane filtration and UV treatment",
+            "Controlled atmosphere processing"
+          ]
+        },
+        {
+          "module": "Module 4",
+          "title": "Process Deviation Management",
+          "topics": [
+            "Automatic alarm response protocols",
+            "Hold-and-release quarantine procedures",
+            "Process re-validation requirements"
+          ]
+        }
+      ],
+      "eligibility": "Degree or diploma in food technology, engineering, dairy science, or equivalent industry technical experience.",
+      "certificate_details": "Haridra Award in Food Process Safety Management.",
+      "featured": false,
+      "is_published": true,
+      "image_url": "/images/training-btech-food-tech.jpg",
+      "program_type": "professional_award"
+    },
+    {
+      "id": 108,
+      "title": "Award in Food Safety Supervision",
+      "slug": "award-in-food-safety-supervision",
+      "code": "HFSA-AWD-08",
+      "category_name": "Professional Food Safety Training",
+      "duration": "Provided upon enquiry / Program schedule",
+      "delivery_mode": "Classroom / Online / Corporate On-Site",
+      "fee": "Contact for fee details & institutional concessions",
+      "is_eosh_accredited": false,
+      "accreditation_details": "Professional Qualification issued under Haridra Food Safety Assurance Industry Standards.",
+      "short_description": "Practical supervisory leadership covering shift-level compliance monitoring, corrective action coaching, and incident logging.",
+      "full_description": "Supervisors are the crucial bridge between corporate policy and daily operational reality. This program trains shift supervisors, line leaders, and department chiefs in conducting daily hygiene walkthroughs, coaching frontline employees, enforcing compliance, and taking rapid corrective action during deviations.",
+      "target_audience": [
+        "Shift In-Charges and Production Line Supervisors",
+        "Kitchen Supervisors and Catering Team Leaders",
+        "Warehouse and Dispatch Supervisors",
+        "Freshly promoted team leads in food businesses"
+      ],
+      "learning_outcomes": [
+        "Conduct shift-level hygiene briefings and pre-operational checks",
+        "Recognize operational non-compliances and coach employees on the spot",
+        "Document deviation incidents and initiate immediate containment",
+        "Foster accountability and high morale in safety-critical tasks"
+      ],
+      "curriculum": [
+        {
+          "module": "Module 1",
+          "title": "The Role of the Food Safety Supervisor",
+          "topics": [
+            "Supervisory duties and legal responsibilities",
+            "Daily handover checklists",
+            "Shift opening and closing audits"
+          ]
+        },
+        {
+          "module": "Module 2",
+          "title": "Observing & Coaching Staff Practices",
+          "topics": [
+            "Detecting hygiene lapses on the line",
+            "Constructive coaching techniques",
+            "Overcoming resistance to SOP compliance"
+          ]
+        },
+        {
+          "module": "Module 3",
+          "title": "Handling Daily Operational Deviations",
+          "topics": [
+            "Immediate corrective action steps",
+            "Quarantine and segregation of suspect goods",
+            "Completing incident reports"
+          ]
+        },
+        {
+          "module": "Module 4",
+          "title": "Audit Preparedness & Record Auditing",
+          "topics": [
+            "Reviewing temperature and cleaning logs",
+            "Preparing shifts for third-party inspections",
+            "Supervisor verification sign-offs"
+          ]
+        }
+      ],
+      "eligibility": "Current or aspiring supervisors in any food handling, manufacturing, or catering establishment.",
+      "certificate_details": "Haridra Award in Food Safety Supervision.",
+      "featured": true,
+      "is_published": true,
+      "image_url": "/images/food-safety-training-lab.jpg",
+      "program_type": "professional_award"
+    },
+    {
+      "id": 109,
+      "title": "Award in Food Safety Hazards",
+      "slug": "award-in-food-safety-hazards",
+      "code": "HFSA-AWD-09",
+      "category_name": "Professional Food Safety Training",
+      "duration": "Provided upon enquiry / Program schedule",
+      "delivery_mode": "Classroom / Technical Seminar / Live Online",
+      "fee": "Contact for fee details & institutional concessions",
+      "is_eosh_accredited": false,
+      "accreditation_details": "Professional Qualification issued under Haridra Food Safety Assurance Industry Standards.",
+      "short_description": "Comprehensive risk analysis covering biological, chemical, physical, and allergen hazards across industrial food processing.",
+      "full_description": "Accurate hazard identification is the bedrock of every successful HACCP and FSMS plan. This award equips participants with scientific hazard analysis techniques to assess pathogen contamination, chemical toxins (mycotoxins, pesticide residues, heavy metals), physical foreign bodies, and allergen cross-contact.",
+      "target_audience": [
+        "HACCP Team Members and QA Technicians",
+        "Food Safety Officers & Laboratory Analysts",
+        "Product Development and Formulation Scientists",
+        "Compliance and Regulatory Affairs Executives"
+      ],
+      "learning_outcomes": [
+        "Categorize and risk-rank biological, chemical, physical, and allergen hazards",
+        "Evaluate mycotoxins, heavy metals, and chemical residue contamination points",
+        "Implement allergen matrix controls and validated cleaning protocols",
+        "Apply probability and severity matrices to establish validated control measures"
+      ],
+      "curriculum": [
+        {
+          "module": "Module 1",
+          "title": "Biological Hazards & Microbial Toxins",
+          "topics": [
+            "Infectious pathogens vs intoxications",
+            "Bacterial spore formers and heat resistance",
+            "Mycotoxins (Aflatoxin, Ochratoxin) in raw commodities"
+          ]
+        },
+        {
+          "module": "Module 2",
+          "title": "Chemical Hazards & Contaminants",
+          "topics": [
+            "Pesticide residues and Maximum Residue Limits (MRL)",
+            "Heavy metals (Lead, Cadmium, Arsenic)",
+            "Process-induced contaminants (Acrylamide, PAHs)"
+          ]
+        },
+        {
+          "module": "Module 3",
+          "title": "Physical Hazards & Packaging Inclusions",
+          "topics": [
+            "Glass, brittle plastic, wood, and metal shavings",
+            "Intrinsic vs extrinsic physical hazards",
+            "Preventative control barriers"
+          ]
+        },
+        {
+          "module": "Module 4",
+          "title": "Allergens & Cross-Contact Science",
+          "topics": [
+            "Major global allergen lists",
+            "Cross-contact mechanisms during processing",
+            "Cleaning validation for allergen-free claims"
+          ]
+        }
+      ],
+      "eligibility": "Science background or working experience in food safety/quality assurance.",
+      "certificate_details": "Haridra Award in Food Safety Hazards.",
+      "featured": false,
+      "is_published": true,
+      "image_url": "/images/training-bsc-food-science.jpg",
+      "program_type": "professional_award"
+    },
+    {
+      "id": 110,
+      "title": "Award in Food Quality Control (FQC)",
+      "slug": "award-in-food-quality-control-fqc",
+      "code": "HFSA-AWD-10",
+      "category_name": "Professional Food Safety Training",
+      "duration": "Provided upon enquiry / Program schedule",
+      "delivery_mode": "Classroom / Laboratory Practical / Hybrid Online",
+      "fee": "Contact for fee details & institutional concessions",
+      "is_eosh_accredited": false,
+      "accreditation_details": "Professional Qualification issued under Haridra Food Safety Assurance Industry Standards.",
+      "short_description": "Laboratory testing, sampling plans, calibration, standard deviations, and documentation for quality control inspectors.",
+      "full_description": "Quality control protects brand reputation through objective physical, chemical, and organoleptic measurements. The Award in Food Quality Control trains inspectors and technicians in sampling methodologies (AQL standards), testing equipment calibration, documentation, and defect management.",
+      "target_audience": [
+        "Quality Control (QC) Inspectors and Lab Technicians",
+        "Incoming Raw Material Quality Analysts",
+        "Packaging Quality Inspectors",
+        "Food Technology Graduates entering QC roles"
+      ],
+      "learning_outcomes": [
+        "Execute statistically sound sampling plans (Acceptable Quality Level - AQL)",
+        "Calibrate laboratory testing equipment (refractometers, pH meters, moisture analyzers)",
+        "Interpret analytical test data and verify compliance against product specifications",
+        "Generate clear, indisputable Certificates of Analysis (COA) and QC release reports"
+      ],
+      "curriculum": [
+        {
+          "module": "Module 1",
+          "title": "Sampling Theory & Inspection Plans",
+          "topics": [
+            "AQL sampling tables (ISO 2859 / IS 2500)",
+            "Representative composite sampling",
+            "Incoming intake inspection protocols"
+          ]
+        },
+        {
+          "module": "Module 2",
+          "title": "Basic Food Lab Testing Methods",
+          "topics": [
+            "Moisture determination and water activity",
+            "pH, titratable acidity, and Brix refractometry",
+            "Texture and viscosity measurement"
+          ]
+        },
+        {
+          "module": "Module 3",
+          "title": "Instrumentation Calibration & Records",
+          "topics": [
+            "Daily calibration schedules and standard buffer verification",
+            "Weigh scale and temperature calibration",
+            "Equipment maintenance logs"
+          ]
+        },
+        {
+          "module": "Module 4",
+          "title": "QC Documentation & Release Procedures",
+          "topics": [
+            "Writing standard inspection reports",
+            "Out-of-specification (OOS) investigation",
+            "Batch release vs quarantine sign-offs"
+          ]
+        }
+      ],
+      "eligibility": "Science background (Food Science, Chemistry, Microbiology, or Life Sciences).",
+      "certificate_details": "Haridra Award in Food Quality Control (FQC).",
+      "featured": true,
+      "is_published": true,
+      "image_url": "/images/training-btech-food-tech.jpg",
+      "program_type": "professional_award"
+    },
+    {
+      "id": 111,
+      "title": "Award in Food Safety for Management Professionals",
+      "slug": "award-in-food-safety-for-management-professionals",
+      "code": "HFSA-AWD-11",
+      "category_name": "Professional Food Safety Training",
+      "duration": "Provided upon enquiry / Program schedule",
+      "delivery_mode": "Executive Seminar / Live Online / Corporate Boardroom",
+      "fee": "Contact for fee details & institutional concessions",
+      "is_eosh_accredited": false,
+      "accreditation_details": "Professional Qualification issued under Haridra Food Safety Assurance Industry Standards.",
+      "short_description": "Executive-level governance covering legal liability, recall risk mitigation, food safety culture, and board-level risk management.",
+      "full_description": "Food safety is an existential business risk requiring strategic boardroom governance. Designed for C-suite executives, general managers, and directors, this executive course outlines statutory director liabilities, financial repercussions of product recalls, crisis communication, and building institutional food safety culture.",
+      "target_audience": [
+        "Business Owners, CEOs, and Managing Directors",
+        "Operations Vice Presidents and General Managers",
+        "Corporate Legal and Risk Compliance Officers",
+        "Supply Chain Heads & Procurement Directors"
+      ],
+      "learning_outcomes": [
+        "Understand executive and statutory legal responsibilities under food laws",
+        "Mitigate enterprise risk associated with contamination outbreaks and recalls",
+        "Assess capital expenditure for hygiene infrastructure and modernization",
+        "Instill top-down food safety leadership across multi-site enterprises"
+      ],
+      "curriculum": [
+        {
+          "module": "Module 1",
+          "title": "Corporate Governance & Legal Liability",
+          "topics": [
+            "Director responsibilities under food safety legislation",
+            "Statutory inspection powers and legal penalties",
+            "Due diligence defense mechanisms"
+          ]
+        },
+        {
+          "module": "Module 2",
+          "title": "Enterprise Recall & Crisis Management",
+          "topics": [
+            "Financial and brand damage of product recalls",
+            "Crisis communication frameworks",
+            "Mock recall protocols and traceability audits"
+          ]
+        },
+        {
+          "module": "Module 3",
+          "title": "Supply Chain Risk & Vendor Assurance",
+          "topics": [
+            "Supplier verification and vulnerability assessments",
+            "Contract manufacturing oversight",
+            "Raw material traceability"
+          ]
+        },
+        {
+          "module": "Module 4",
+          "title": "Cultivating Food Safety Culture",
+          "topics": [
+            "Tone from the top: leadership commitment",
+            "Food safety KPIs for management reviews",
+            "Continuous improvement investment strategy"
+          ]
+        }
+      ],
+      "eligibility": "Senior management, executives, directors, or business owners.",
+      "certificate_details": "Haridra Award in Food Safety for Management Professionals.",
+      "featured": true,
+      "is_published": true,
+      "image_url": "/images/food-safety-consultant.jpg",
+      "program_type": "professional_award"
+    },
+    {
+      "id": 112,
+      "title": "Award in Food Safety and Sanitation for Food Manufacturers",
+      "slug": "award-in-food-safety-and-sanitation-for-food-manufacturers",
+      "code": "HFSA-AWD-12",
+      "category_name": "Professional Food Safety Training",
+      "duration": "Provided upon enquiry / Program schedule",
+      "delivery_mode": "Classroom / Plant Floor Practical / Live Online",
+      "fee": "Contact for fee details & institutional concessions",
+      "is_eosh_accredited": false,
+      "accreditation_details": "Professional Qualification issued under Haridra Food Safety Assurance Industry Standards.",
+      "short_description": "Specialized industrial sanitation covering Clean-In-Place (CIP), biofilm remediation, chemical titration, and drainage hygiene.",
+      "full_description": "This highly specialized technical program delivers actionable expertise in industrial sanitation engineering. Participants explore Clean-In-Place (CIP) cycle parameters (time, temperature, action, chemical), Clean-Out-of-Place (COP) tanks, enzymatic biofilm eradication, sanitary valve design, and environmental pathogen verification.",
+      "target_audience": [
+        "Plant Sanitation Managers and CIP Lead Operators",
+        "Facility Maintenance Engineers and Plant Supervisors",
+        "Hygiene and Food Safety Technical Specialists",
+        "Food Plant Sanitation Chemical Technicians"
+      ],
+      "learning_outcomes": [
+        "Optimize Clean-In-Place (CIP) 5-step and 7-step cycles for maximum microbial clearance",
+        "Identify and eradicate resilient bacterial biofilms in piping and dead-legs",
+        "Safely test and calibrate caustic and acid chemical wash concentrations",
+        "Formulate environmental pathogen monitoring swabbing grids (EMP)"
+      ],
+      "curriculum": [
+        {
+          "module": "Module 1",
+          "title": "CIP / COP Engineering & Fluid Dynamics",
+          "topics": [
+            "The 4 pillars of sanitation (TACT principles)",
+            "Velocity, spray-ball coverage, and pressure drop",
+            "Dead-leg identification and elimination"
+          ]
+        },
+        {
+          "module": "Module 2",
+          "title": "Sanitation Chemistry & Titration",
+          "topics": [
+            "Caustic soda wash and organic residue dissolution",
+            "Acid washes for mineral scale removal",
+            "Peracetic acid (PAA) and chlorine dioxide sanitizers"
+          ]
+        },
+        {
+          "module": "Module 3",
+          "title": "Biofilm Dynamics & Remediation",
+          "topics": [
+            "Biofilm formation stages on stainless steel",
+            "Enzymatic and oxidative biofilm destruction",
+            "Pre-operational visual and ATP verification"
+          ]
+        },
+        {
+          "module": "Module 4",
+          "title": "Drainage, Zoning & Pathogen Grids",
+          "topics": [
+            "Hygienic drainage design and trap sanitation",
+            "Environmental Monitoring Programs (EMP)",
+            "Corrective actions for positive environmental swabs"
+          ]
+        }
+      ],
+      "eligibility": "Experience in food manufacturing, maintenance engineering, or facility sanitation.",
+      "certificate_details": "Haridra Award in Food Safety and Sanitation for Food Manufacturers.",
+      "featured": true,
+      "is_published": true,
+      "image_url": "/images/training-btech-food-tech.jpg",
+      "program_type": "professional_award"
+    },
+    {
+      "id": 212,
+      "title": "Food Safety and Hygiene",
+      "slug": "food-safety-and-hygiene",
+      "code": "HFSA-BFST-01",
+      "category_name": "B.Tech Food Science and Technology",
+      "duration": "Flexible module sessions / Inquire for next academic cohort",
+      "delivery_mode": "Campus Workshop / Interactive Classroom / Hybrid Online",
+      "fee": "Student Concessions & Institutional Packages Available",
+      "is_eosh_accredited": false,
+      "accreditation_details": "Academic Enrichment & Industry Bridging Subject by Haridra Food Safety Assurance Pvt. Ltd. (Note: Haridra provides specialized industry training and does not award university degrees).",
+      "short_description": "Industrial hygiene principles, biological and chemical hazard control, personal hygiene standards, and factory sanitation protocols.",
+      "full_description": "This subject introduces food science students to the fundamental principles of industrial hygiene and safety compliance. Learners explore contamination pathways in processing plants, prerequisite hygiene programs (PRPs), personal sanitization regimens, and the regulatory framework governing factory-floor hygiene standards.",
+      "target_audience": [
+        "Food engineering & technology students preparing for production QA and technical operations.",
+        "Students enrolled in or pursuing B.Tech Food Science & Technology",
+        "Graduates seeking industry-oriented practical food safety skills",
+        "Academic institutions seeking specialized technical workshops"
+      ],
+      "learning_outcomes": [
+        "Microbial and chemical hazard identification in food processing",
+        "Prerequisite programs (PRPs) and personal hygiene discipline",
+        "Sanitation Standard Operating Procedures (SSOP) design",
+        "Zoning, air quality, and water purity in manufacturing"
+      ],
+      "curriculum": [
+        {
+          "module": "Focus Area 1",
+          "title": "Theoretical Principles & Regulatory Context",
+          "topics": [
+            "Microbial and chemical hazard identification in food processing",
+            "Prerequisite programs (PRPs) and personal hygiene discipline"
+          ]
+        },
+        {
+          "module": "Focus Area 2",
+          "title": "Practical Plant & Field Implementation",
+          "topics": [
+            "Sanitation Standard Operating Procedures (SSOP) design",
+            "Zoning, air quality, and water purity in manufacturing"
+          ]
+        },
+        {
+          "module": "Focus Area 3",
+          "title": "Industry Applications & Verification",
+          "topics": [
+            "Conducting factory-floor personal hygiene checks",
+            "Verifying sanitation chemicals and contact times",
+            "Authoring sanitation logs and hygiene non-conformance reports"
+          ]
+        }
+      ],
+      "eligibility": "Open to undergraduate and postgraduate students in B.Tech Food Science & Technology and allied sciences.",
+      "certificate_details": "Haridra Certificate of Subject Completion upon active participation and practical assignment review.",
+      "featured": false,
+      "is_published": true,
+      "image_url": "/images/training-btech-food-tech.jpg",
+      "program_type": "student_subject",
+      "academic_track": "btech-food-tech",
+      "academic_category_name": "B.Tech Food Science and Technology"
+    },
+    {
+      "id": 213,
+      "title": "Quality Control in Food Production",
+      "slug": "quality-control-in-food-production",
+      "code": "HFSA-BFST-02",
+      "category_name": "B.Tech Food Science and Technology",
+      "duration": "Flexible module sessions / Inquire for next academic cohort",
+      "delivery_mode": "Campus Workshop / Laboratory Practical / Hybrid Online",
+      "fee": "Student Concessions & Institutional Packages Available",
+      "is_eosh_accredited": false,
+      "accreditation_details": "Academic Enrichment & Industry Bridging Subject by Haridra Food Safety Assurance Pvt. Ltd. (Note: Haridra provides specialized industry training and does not award university degrees).",
+      "short_description": "Analytical inspection methods, statistical quality control, defect categorization, and batch record verification.",
+      "full_description": "Quality control is the frontline defense in food manufacturing. This subject provides rigorous exposure to in-line sampling protocols, raw material intake verification, Certificate of Analysis (COA) reviews, and statistical process control (SPC) techniques used across modern food processing plants.",
+      "target_audience": [
+        "Students targeting QA/QC laboratory technician and quality inspector careers.",
+        "Students enrolled in or pursuing B.Tech Food Science & Technology",
+        "Graduates seeking industry-oriented practical food safety skills",
+        "Academic institutions seeking specialized technical workshops"
+      ],
+      "learning_outcomes": [
+        "Raw material receiving inspection and testing protocols",
+        "Statistical process control and tolerance tracking",
+        "Non-conformance grading (Minor, Major, Critical)",
+        "Verification of batch documentation and traceability records"
+      ],
+      "curriculum": [
+        {
+          "module": "Focus Area 1",
+          "title": "Theoretical Principles & Regulatory Context",
+          "topics": [
+            "Raw material receiving inspection and testing protocols",
+            "Statistical process control and tolerance tracking"
+          ]
+        },
+        {
+          "module": "Focus Area 2",
+          "title": "Practical Plant & Field Implementation",
+          "topics": [
+            "Non-conformance grading (Minor, Major, Critical)",
+            "Verification of batch documentation and traceability records"
+          ]
+        },
+        {
+          "module": "Focus Area 3",
+          "title": "Industry Applications & Verification",
+          "topics": [
+            "Performing statistical batch sampling and defect logging",
+            "Verifying raw material specifications against supplier COAs",
+            "Establishing critical control point inspection logs"
+          ]
+        }
+      ],
+      "eligibility": "Open to undergraduate and postgraduate students in B.Tech Food Science & Technology and allied sciences.",
+      "certificate_details": "Haridra Certificate of Subject Completion upon active participation and practical assignment review.",
+      "featured": false,
+      "is_published": true,
+      "image_url": "/images/training-btech-food-tech.jpg",
+      "program_type": "student_subject",
+      "academic_track": "btech-food-tech",
+      "academic_category_name": "B.Tech Food Science and Technology"
+    },
+    {
+      "id": 214,
+      "title": "Food Packaging Technology",
+      "slug": "food-packaging-technology",
+      "code": "HFSA-BFST-03",
+      "category_name": "B.Tech Food Science and Technology",
+      "duration": "Flexible module sessions / Inquire for next academic cohort",
+      "delivery_mode": "Classroom / Technical Demo / Hybrid Online",
+      "fee": "Student Concessions & Institutional Packages Available",
+      "is_eosh_accredited": false,
+      "accreditation_details": "Academic Enrichment & Industry Bridging Subject by Haridra Food Safety Assurance Pvt. Ltd. (Note: Haridra provides specialized industry training and does not award university degrees).",
+      "short_description": "Packaging materials, barrier characteristics, modified atmosphere packaging (MAP), and seal integrity testing.",
+      "full_description": "Modern packaging preserves food safety, prevents spoilage, and extends shelf-life. This subject covers food contact material regulations, migration safety testing, oxygen and moisture barrier kinetics, vacuum and modified atmosphere packaging (MAP), and sustainable biodegradable materials.",
+      "target_audience": [
+        "Undergraduates focusing on packaging development, logistics, and processing engineering.",
+        "Students enrolled in or pursuing B.Tech Food Science & Technology",
+        "Graduates seeking industry-oriented practical food safety skills",
+        "Academic institutions seeking specialized technical workshops"
+      ],
+      "learning_outcomes": [
+        "Food contact materials compliance and global migration limits",
+        "Modified atmosphere packaging (MAP) and gas flushing principles",
+        "Seal integrity testing, burst testing, and vacuum decay methods",
+        "Eco-friendly and biodegradable food packaging innovations"
+      ],
+      "curriculum": [
+        {
+          "module": "Focus Area 1",
+          "title": "Theoretical Principles & Regulatory Context",
+          "topics": [
+            "Food contact materials compliance and global migration limits",
+            "Modified atmosphere packaging (MAP) and gas flushing principles"
+          ]
+        },
+        {
+          "module": "Focus Area 2",
+          "title": "Practical Plant & Field Implementation",
+          "topics": [
+            "Seal integrity testing, burst testing, and vacuum decay methods",
+            "Eco-friendly and biodegradable food packaging innovations"
+          ]
+        },
+        {
+          "module": "Focus Area 3",
+          "title": "Industry Applications & Verification",
+          "topics": [
+            "Conducting package seal leakage and dye penetration tests",
+            "Evaluating food packaging material compatibility with food matrices",
+            "Reviewing migration test reports and compliance certificates"
+          ]
+        }
+      ],
+      "eligibility": "Open to undergraduate and postgraduate students in B.Tech Food Science & Technology and allied sciences.",
+      "certificate_details": "Haridra Certificate of Subject Completion upon active participation and practical assignment review.",
+      "featured": false,
+      "is_published": true,
+      "image_url": "/images/training-btech-food-tech.jpg",
+      "program_type": "student_subject",
+      "academic_track": "btech-food-tech",
+      "academic_category_name": "B.Tech Food Science and Technology"
+    },
+    {
+      "id": 215,
+      "title": "Sensory Evaluation of Food Products",
+      "slug": "sensory-evaluation-of-food-products",
+      "code": "HFSA-BFST-04",
+      "category_name": "B.Tech Food Science and Technology",
+      "duration": "Flexible module sessions / Inquire for next academic cohort",
+      "delivery_mode": "Practical Sensory Lab / Campus Workshop / Interactive",
+      "fee": "Student Concessions & Institutional Packages Available",
+      "is_eosh_accredited": false,
+      "accreditation_details": "Academic Enrichment & Industry Bridging Subject by Haridra Food Safety Assurance Pvt. Ltd. (Note: Haridra provides specialized industry training and does not award university degrees).",
+      "short_description": "Sensory panel screening, discrimination testing, descriptive profiling, and consumer acceptance analytics.",
+      "full_description": "Sensory evaluation links scientific formulation with human perception. This subject trains students in structured sensory laboratory setup, discrimination testing (triangle, duo-trio), descriptive quantitative analysis, panelist screening, and organoleptic quality verification during shelf-life studies.",
+      "target_audience": [
+        "Food science students aiming for R&D, new product formulation (NPD), and QA roles.",
+        "Students enrolled in or pursuing B.Tech Food Science & Technology",
+        "Graduates seeking industry-oriented practical food safety skills",
+        "Academic institutions seeking specialized technical workshops"
+      ],
+      "learning_outcomes": [
+        "Physiology of human taste, aroma, texture, and visual perception",
+        "Sensory panel selection, training, and blind testing protocols",
+        "Discrimination testing and quantitative descriptive analysis (QDA)",
+        "Statistical evaluation of sensory testing data"
+      ],
+      "curriculum": [
+        {
+          "module": "Focus Area 1",
+          "title": "Theoretical Principles & Regulatory Context",
+          "topics": [
+            "Physiology of human taste, aroma, texture, and visual perception",
+            "Sensory panel selection, training, and blind testing protocols"
+          ]
+        },
+        {
+          "module": "Focus Area 2",
+          "title": "Practical Plant & Field Implementation",
+          "topics": [
+            "Discrimination testing and quantitative descriptive analysis (QDA)",
+            "Statistical evaluation of sensory testing data"
+          ]
+        },
+        {
+          "module": "Focus Area 3",
+          "title": "Industry Applications & Verification",
+          "topics": [
+            "Setting up a standard sensory testing booth and blind sample flight",
+            "Running triangle difference tests for formulation changes",
+            "Mapping organoleptic degradation across accelerated shelf-life studies"
+          ]
+        }
+      ],
+      "eligibility": "Open to undergraduate and postgraduate students in B.Tech Food Science & Technology and allied sciences.",
+      "certificate_details": "Haridra Certificate of Subject Completion upon active participation and practical assignment review.",
+      "featured": false,
+      "is_published": true,
+      "image_url": "/images/training-btech-food-tech.jpg",
+      "program_type": "student_subject",
+      "academic_track": "btech-food-tech",
+      "academic_category_name": "B.Tech Food Science and Technology"
+    },
+    {
+      "id": 216,
+      "title": "Nutritional Labeling Regulations",
+      "slug": "nutritional-labeling-regulations",
+      "code": "HFSA-BFST-05",
+      "category_name": "B.Tech Food Science and Technology",
+      "duration": "Flexible module sessions / Inquire for next academic cohort",
+      "delivery_mode": "Classroom / Regulatory Seminar / Hybrid Online",
+      "fee": "Student Concessions & Institutional Packages Available",
+      "is_eosh_accredited": false,
+      "accreditation_details": "Academic Enrichment & Industry Bridging Subject by Haridra Food Safety Assurance Pvt. Ltd. (Note: Haridra provides specialized industry training and does not award university degrees).",
+      "short_description": "FSSAI and Codex labeling laws, allergen disclosures, nutritional panel calculation, and regulatory claim substantiation.",
+      "full_description": "Food labels communicate essential nutritional facts and statutory warnings to consumers. This subject covers FSSAI Packaging & Labelling regulations, mandatory nutritional declaration formats, serving size calculations, allergen warnings, date marking (Best Before vs Expiry), and health claim substantiation.",
+      "target_audience": [
+        "Students aspiring to regulatory affairs, food compliance, and product branding careers.",
+        "Students enrolled in or pursuing B.Tech Food Science & Technology",
+        "Graduates seeking industry-oriented practical food safety skills",
+        "Academic institutions seeking specialized technical workshops"
+      ],
+      "learning_outcomes": [
+        "Statutory labeling requirements under national and international standards",
+        "Calculating nutritional fact panels from laboratory analytical data",
+        "Allergen declaration requirements and cross-contact advisories",
+        "Nutritional and health claim substantiation guidelines"
+      ],
+      "curriculum": [
+        {
+          "module": "Focus Area 1",
+          "title": "Theoretical Principles & Regulatory Context",
+          "topics": [
+            "Statutory labeling requirements under national and international standards",
+            "Calculating nutritional fact panels from laboratory analytical data"
+          ]
+        },
+        {
+          "module": "Focus Area 2",
+          "title": "Practical Plant & Field Implementation",
+          "topics": [
+            "Allergen declaration requirements and cross-contact advisories",
+            "Nutritional and health claim substantiation guidelines"
+          ]
+        },
+        {
+          "module": "Focus Area 3",
+          "title": "Industry Applications & Verification",
+          "topics": [
+            "Reviewing commercial artwork proofs for compliance and statutory font heights",
+            "Formulating allergen warning boxes and net quantity statements",
+            "Drafting ingredient declarations conforming to descending order rules"
+          ]
+        }
+      ],
+      "eligibility": "Open to undergraduate and postgraduate students in B.Tech Food Science & Technology and allied sciences.",
+      "certificate_details": "Haridra Certificate of Subject Completion upon active participation and practical assignment review.",
+      "featured": false,
+      "is_published": true,
+      "image_url": "/images/training-btech-food-tech.jpg",
+      "program_type": "student_subject",
+      "academic_track": "btech-food-tech",
+      "academic_category_name": "B.Tech Food Science and Technology"
+    },
+    {
+      "id": 217,
+      "title": "Organic Farming Practices",
+      "slug": "organic-farming-practices",
+      "code": "HFSA-BAGR-01",
+      "category_name": "B.Sc. Agriculture",
+      "duration": "Flexible module sessions / Inquire for next academic cohort",
+      "delivery_mode": "Field Practical / Campus Workshop / Hybrid Online",
+      "fee": "Student Concessions & Institutional Packages Available",
+      "is_eosh_accredited": false,
+      "accreditation_details": "Academic Enrichment & Industry Bridging Subject by Haridra Food Safety Assurance Pvt. Ltd. (Note: Haridra provides specialized industry training and does not award university degrees).",
+      "short_description": "Organic soil management, bio-inputs, organic certification compliance, and natural crop defense systems.",
+      "full_description": "Organic farming requires rigorous ecological discipline and formal certification integrity. This subject covers conversion processes, organic soil biology, bio-fertilizers, organic manure composting, biological pest control, and national/international organic certification standards.",
+      "target_audience": [
+        "Agriculture students aiming for agribusiness, organic consulting, and farm management roles.",
+        "Students enrolled in or pursuing B.Sc. Agriculture",
+        "Graduates seeking industry-oriented practical food safety skills",
+        "Academic institutions seeking specialized technical workshops"
+      ],
+      "learning_outcomes": [
+        "Principles of organic agriculture and farm conversion timelines",
+        "Bio-fertilizers, green manures, and compost preparation",
+        "Organic seed standards and non-chemical pest prevention",
+        "Organic certification documentation and traceability requirements"
+      ],
+      "curriculum": [
+        {
+          "module": "Focus Area 1",
+          "title": "Theoretical Principles & Regulatory Context",
+          "topics": [
+            "Principles of organic agriculture and farm conversion timelines",
+            "Bio-fertilizers, green manures, and compost preparation"
+          ]
+        },
+        {
+          "module": "Focus Area 2",
+          "title": "Practical Plant & Field Implementation",
+          "topics": [
+            "Organic seed standards and non-chemical pest prevention",
+            "Organic certification documentation and traceability requirements"
+          ]
+        },
+        {
+          "module": "Focus Area 3",
+          "title": "Industry Applications & Verification",
+          "topics": [
+            "Designing organic crop rotation schedules",
+            "Formulating farm-level organic input production plans",
+            "Reviewing internal audit checklists for organic farm certification"
+          ]
+        }
+      ],
+      "eligibility": "Open to undergraduate and postgraduate students in B.Sc. Agriculture and allied sciences.",
+      "certificate_details": "Haridra Certificate of Subject Completion upon active participation and practical assignment review.",
+      "featured": false,
+      "is_published": true,
+      "image_url": "/images/training-bsc-agriculture.jpg",
+      "program_type": "student_subject",
+      "academic_track": "bsc-agriculture",
+      "academic_category_name": "B.Sc. Agriculture"
+    },
+    {
+      "id": 218,
+      "title": "Introduction to Sustainable Agriculture",
+      "slug": "introduction-to-sustainable-agriculture",
+      "code": "HFSA-BAGR-02",
+      "category_name": "B.Sc. Agriculture",
+      "duration": "Flexible module sessions / Inquire for next academic cohort",
+      "delivery_mode": "Classroom / Case Studies / Field Demonstrations",
+      "fee": "Student Concessions & Institutional Packages Available",
+      "is_eosh_accredited": false,
+      "accreditation_details": "Academic Enrichment & Industry Bridging Subject by Haridra Food Safety Assurance Pvt. Ltd. (Note: Haridra provides specialized industry training and does not award university degrees).",
+      "short_description": "Resource conservation, water efficiency, carbon-smart farming, and resilient agricultural food systems.",
+      "full_description": "Sustainable agriculture balances high-yield productivity with long-term ecosystem vitality. Students explore conservation tillage, precision irrigation, agro-forestry, integrated farming systems (IFS), carbon sequestration in agricultural soils, and climate-resilient crop selection.",
+      "target_audience": [
+        "Students interested in agricultural sustainability, rural development, and environmental agronomy.",
+        "Students enrolled in or pursuing B.Sc. Agriculture",
+        "Graduates seeking industry-oriented practical food safety skills",
+        "Academic institutions seeking specialized technical workshops"
+      ],
+      "learning_outcomes": [
+        "Water stewardship and micro-irrigation management",
+        "Conservation agriculture and minimal soil disturbance",
+        "Integrated farming systems combining crops, livestock, and aquaculture",
+        "Climate-resilient cropping and carbon-smart agriculture"
+      ],
+      "curriculum": [
+        {
+          "module": "Focus Area 1",
+          "title": "Theoretical Principles & Regulatory Context",
+          "topics": [
+            "Water stewardship and micro-irrigation management",
+            "Conservation agriculture and minimal soil disturbance"
+          ]
+        },
+        {
+          "module": "Focus Area 2",
+          "title": "Practical Plant & Field Implementation",
+          "topics": [
+            "Integrated farming systems combining crops, livestock, and aquaculture",
+            "Climate-resilient cropping and carbon-smart agriculture"
+          ]
+        },
+        {
+          "module": "Focus Area 3",
+          "title": "Industry Applications & Verification",
+          "topics": [
+            "Assessing farm water budgets and irrigation efficiency",
+            "Evaluating multi-tier integrated farming layouts",
+            "Measuring farm carbon footprint and biodiversity indicators"
+          ]
+        }
+      ],
+      "eligibility": "Open to undergraduate and postgraduate students in B.Sc. Agriculture and allied sciences.",
+      "certificate_details": "Haridra Certificate of Subject Completion upon active participation and practical assignment review.",
+      "featured": false,
+      "is_published": true,
+      "image_url": "/images/training-bsc-agriculture.jpg",
+      "program_type": "student_subject",
+      "academic_track": "bsc-agriculture",
+      "academic_category_name": "B.Sc. Agriculture"
+    },
+    {
+      "id": 219,
+      "title": "Pest Management Techniques",
+      "slug": "pest-management-techniques",
+      "code": "HFSA-BAGR-03",
+      "category_name": "B.Sc. Agriculture",
+      "duration": "Flexible module sessions / Inquire for next academic cohort",
+      "delivery_mode": "Field Scout Training / Campus Workshop / Hybrid",
+      "fee": "Student Concessions & Institutional Packages Available",
+      "is_eosh_accredited": false,
+      "accreditation_details": "Academic Enrichment & Industry Bridging Subject by Haridra Food Safety Assurance Pvt. Ltd. (Note: Haridra provides specialized industry training and does not award university degrees).",
+      "short_description": "Integrated Pest Management (IPM), biological control agents, pheromone monitoring, and pesticide residue controls.",
+      "full_description": "Pest management must safeguard crop health while preventing chemical residue contamination in the food chain. This subject teaches Economic Threshold Levels (ETL), beneficial predator propagation, pheromone trapping, bio-botanicals, and regulatory maximum residue limits (MRLs).",
+      "target_audience": [
+        "Agriculture students preparing for plant protection, ag-input consulting, and field operations.",
+        "Students enrolled in or pursuing B.Sc. Agriculture",
+        "Graduates seeking industry-oriented practical food safety skills",
+        "Academic institutions seeking specialized technical workshops"
+      ],
+      "learning_outcomes": [
+        "Integrated Pest Management (IPM) core principles and field scouting",
+        "Biological control using parasitoids, predators, and pathogens",
+        "Pheromone lures, sticky traps, and physical barriers",
+        "Safe pesticide handling and Maximum Residue Limits (MRL) compliance"
+      ],
+      "curriculum": [
+        {
+          "module": "Focus Area 1",
+          "title": "Theoretical Principles & Regulatory Context",
+          "topics": [
+            "Integrated Pest Management (IPM) core principles and field scouting",
+            "Biological control using parasitoids, predators, and pathogens"
+          ]
+        },
+        {
+          "module": "Focus Area 2",
+          "title": "Practical Plant & Field Implementation",
+          "topics": [
+            "Pheromone lures, sticky traps, and physical barriers",
+            "Safe pesticide handling and Maximum Residue Limits (MRL) compliance"
+          ]
+        },
+        {
+          "module": "Focus Area 3",
+          "title": "Industry Applications & Verification",
+          "topics": [
+            "Calculating Economic Threshold Levels (ETL) through field scouting",
+            "Installing and monitoring pheromone trap densities",
+            "Drafting chemical withholding period and MRL risk mitigation plans"
+          ]
+        }
+      ],
+      "eligibility": "Open to undergraduate and postgraduate students in B.Sc. Agriculture and allied sciences.",
+      "certificate_details": "Haridra Certificate of Subject Completion upon active participation and practical assignment review.",
+      "featured": false,
+      "is_published": true,
+      "image_url": "/images/training-bsc-agriculture.jpg",
+      "program_type": "student_subject",
+      "academic_track": "bsc-agriculture",
+      "academic_category_name": "B.Sc. Agriculture"
+    },
+    {
+      "id": 220,
+      "title": "Soil Health Assessment",
+      "slug": "soil-health-assessment",
+      "code": "HFSA-BAGR-04",
+      "category_name": "B.Sc. Agriculture",
+      "duration": "Flexible module sessions / Inquire for next academic cohort",
+      "delivery_mode": "Soil Testing Lab Practical / Classroom / Hybrid",
+      "fee": "Student Concessions & Institutional Packages Available",
+      "is_eosh_accredited": false,
+      "accreditation_details": "Academic Enrichment & Industry Bridging Subject by Haridra Food Safety Assurance Pvt. Ltd. (Note: Haridra provides specialized industry training and does not award university degrees).",
+      "short_description": "Physical, chemical, and biological soil diagnostics, nutrient profiling, and fertility restoration plans.",
+      "full_description": "Healthy soil is the foundation of food safety and crop nutrition. This subject covers soil sampling methodologies, pH and electrical conductivity testing, organic carbon determination, macronutrient and micronutrient diagnostics, and biological microbial activity indicators.",
+      "target_audience": [
+        "Students targeting soil testing laboratories, agronomic advisory, and precision farming.",
+        "Students enrolled in or pursuing B.Sc. Agriculture",
+        "Graduates seeking industry-oriented practical food safety skills",
+        "Academic institutions seeking specialized technical workshops"
+      ],
+      "learning_outcomes": [
+        "Soil sampling techniques and sample preparation standards",
+        "Chemical parameters: pH, electrical conductivity, cation exchange capacity (CEC)",
+        "Soil organic matter and biological soil health indicators",
+        "Interpreting soil health card reports and customized fertilizer recommendations"
+      ],
+      "curriculum": [
+        {
+          "module": "Focus Area 1",
+          "title": "Theoretical Principles & Regulatory Context",
+          "topics": [
+            "Soil sampling techniques and sample preparation standards",
+            "Chemical parameters: pH, electrical conductivity, cation exchange capacity (CEC)"
+          ]
+        },
+        {
+          "module": "Focus Area 2",
+          "title": "Practical Plant & Field Implementation",
+          "topics": [
+            "Soil organic matter and biological soil health indicators",
+            "Interpreting soil health card reports and customized fertilizer recommendations"
+          ]
+        },
+        {
+          "module": "Focus Area 3",
+          "title": "Industry Applications & Verification",
+          "topics": [
+            "Performing soil sample collection and field kit testing",
+            "Interpreting laboratory soil analysis reports",
+            "Formulating balanced soil amendment and remediation strategies"
+          ]
+        }
+      ],
+      "eligibility": "Open to undergraduate and postgraduate students in B.Sc. Agriculture and allied sciences.",
+      "certificate_details": "Haridra Certificate of Subject Completion upon active participation and practical assignment review.",
+      "featured": false,
+      "is_published": true,
+      "image_url": "/images/training-bsc-agriculture.jpg",
+      "program_type": "student_subject",
+      "academic_track": "bsc-agriculture",
+      "academic_category_name": "B.Sc. Agriculture"
+    },
+    {
+      "id": 221,
+      "title": "Agroecology Principles",
+      "slug": "agroecology-principles",
+      "code": "HFSA-BAGR-05",
+      "category_name": "B.Sc. Agriculture",
+      "duration": "Flexible module sessions / Inquire for next academic cohort",
+      "delivery_mode": "Classroom / Field Seminars / Interactive Studies",
+      "fee": "Student Concessions & Institutional Packages Available",
+      "is_eosh_accredited": false,
+      "accreditation_details": "Academic Enrichment & Industry Bridging Subject by Haridra Food Safety Assurance Pvt. Ltd. (Note: Haridra provides specialized industry training and does not award university degrees).",
+      "short_description": "Ecological farm design, biodiversity conservation, polyculture systems, and ecological food sovereignty.",
+      "full_description": "Agroecology studies agricultural production as an integral part of natural ecological systems. Students explore biodiversity dynamics, polyculture cropping, agro-ecosystem nutrient loops, biological pest suppression, and the socio-economic dimensions of regenerative farming.",
+      "target_audience": [
+        "Undergraduates focusing on ecological agriculture, research, and sustainable development.",
+        "Students enrolled in or pursuing B.Sc. Agriculture",
+        "Graduates seeking industry-oriented practical food safety skills",
+        "Academic institutions seeking specialized technical workshops"
+      ],
+      "learning_outcomes": [
+        "Agro-ecosystem structure, trophic relationships, and nutrient cycles",
+        "Companion planting, intercropping, and biodiversity corridors",
+        "Soil-plant-microbe interactions and mycorrhizal networks",
+        "Agroecological transitions and sustainable community food systems"
+      ],
+      "curriculum": [
+        {
+          "module": "Focus Area 1",
+          "title": "Theoretical Principles & Regulatory Context",
+          "topics": [
+            "Agro-ecosystem structure, trophic relationships, and nutrient cycles",
+            "Companion planting, intercropping, and biodiversity corridors"
+          ]
+        },
+        {
+          "module": "Focus Area 2",
+          "title": "Practical Plant & Field Implementation",
+          "topics": [
+            "Soil-plant-microbe interactions and mycorrhizal networks",
+            "Agroecological transitions and sustainable community food systems"
+          ]
+        },
+        {
+          "module": "Focus Area 3",
+          "title": "Industry Applications & Verification",
+          "topics": [
+            "Mapping farm biodiversity and pollinator habitats",
+            "Designing multi-crop spatial and temporal configurations",
+            "Conducting ecological resilience assessments for agrarian holdings"
+          ]
+        }
+      ],
+      "eligibility": "Open to undergraduate and postgraduate students in B.Sc. Agriculture and allied sciences.",
+      "certificate_details": "Haridra Certificate of Subject Completion upon active participation and practical assignment review.",
+      "featured": false,
+      "is_published": true,
+      "image_url": "/images/training-bsc-agriculture.jpg",
+      "program_type": "student_subject",
+      "academic_track": "bsc-agriculture",
+      "academic_category_name": "B.Sc. Agriculture"
+    },
+    {
+      "id": 222,
+      "title": "Food Microbiology Basics",
+      "slug": "food-microbiology-basics",
+      "code": "HFSA-BFSC-01",
+      "category_name": "B.Sc. Food Science",
+      "duration": "Flexible module sessions / Inquire for next academic cohort",
+      "delivery_mode": "Laboratory Practical / Classroom / Hybrid Online",
+      "fee": "Student Concessions & Institutional Packages Available",
+      "is_eosh_accredited": false,
+      "accreditation_details": "Academic Enrichment & Industry Bridging Subject by Haridra Food Safety Assurance Pvt. Ltd. (Note: Haridra provides specialized industry training and does not award university degrees).",
+      "short_description": "Pathogen biology, spoilage organisms, laboratory culturing, and microbiological safety standards.",
+      "full_description": "Food microbiology is essential for preventing foodborne illness and preserving product integrity. Students study bacterial growth kinetics, major foodborne pathogens (Salmonella, Listeria, E. coli, Clostridium), spoilage molds and yeasts, beneficial fermentation bacteria, and laboratory aseptic techniques.",
+      "target_audience": [
+        "Food science & microbiology students targeting laboratory analyst and QA careers.",
+        "Students enrolled in or pursuing B.Sc. Food Science",
+        "Graduates seeking industry-oriented practical food safety skills",
+        "Academic institutions seeking specialized technical workshops"
+      ],
+      "learning_outcomes": [
+        "Bacterial growth curves, D-values, and z-values",
+        "Common food-borne pathogens, intoxication, and infectious mechanisms",
+        "Microbial spoilage patterns in dairy, meat, and processed produce",
+        "Aseptic sampling, agar plating, and colony enumeration"
+      ],
+      "curriculum": [
+        {
+          "module": "Focus Area 1",
+          "title": "Theoretical Principles & Regulatory Context",
+          "topics": [
+            "Bacterial growth curves, D-values, and z-values",
+            "Common food-borne pathogens, intoxication, and infectious mechanisms"
+          ]
+        },
+        {
+          "module": "Focus Area 2",
+          "title": "Practical Plant & Field Implementation",
+          "topics": [
+            "Microbial spoilage patterns in dairy, meat, and processed produce",
+            "Aseptic sampling, agar plating, and colony enumeration"
+          ]
+        },
+        {
+          "module": "Focus Area 3",
+          "title": "Industry Applications & Verification",
+          "topics": [
+            "Performing serial dilutions and pour/spread plate counts",
+            "Identifying pathogen colonies and interpreting test plates",
+            "Evaluating environmental swab test data against statutory limits"
+          ]
+        }
+      ],
+      "eligibility": "Open to undergraduate and postgraduate students in B.Sc. Food Science and allied sciences.",
+      "certificate_details": "Haridra Certificate of Subject Completion upon active participation and practical assignment review.",
+      "featured": false,
+      "is_published": true,
+      "image_url": "/images/training-bsc-food-science.jpg",
+      "program_type": "student_subject",
+      "academic_track": "bsc-food-science",
+      "academic_category_name": "B.Sc. Food Science"
+    },
+    {
+      "id": 223,
+      "title": "Introduction to Food Preservation Techniques",
+      "slug": "introduction-to-food-preservation-techniques",
+      "code": "HFSA-BFSC-02",
+      "category_name": "B.Sc. Food Science",
+      "duration": "Flexible module sessions / Inquire for next academic cohort",
+      "delivery_mode": "Classroom / Technical Demos / Hybrid Online",
+      "fee": "Student Concessions & Institutional Packages Available",
+      "is_eosh_accredited": false,
+      "accreditation_details": "Academic Enrichment & Industry Bridging Subject by Haridra Food Safety Assurance Pvt. Ltd. (Note: Haridra provides specialized industry training and does not award university degrees).",
+      "short_description": "Thermal processing, dehydration, cold chain preservation, water activity control, and hurdle technology.",
+      "full_description": "Preserving food quality requires a multi-hurdle approach to inhibit microbial proliferation and enzymatic degradation. This subject covers thermal processing (pasteurization, retort canning), dehydration kinetics, freezing crystallization, water activity (aw) control, and hurdle technology.",
+      "target_audience": [
+        "Students aspiring to food processing, packaging line oversight, and technical QA.",
+        "Students enrolled in or pursuing B.Sc. Food Science",
+        "Graduates seeking industry-oriented practical food safety skills",
+        "Academic institutions seeking specialized technical workshops"
+      ],
+      "learning_outcomes": [
+        "Thermal lethality concepts, pasteurization, and commercial sterility",
+        "Freezing mechanics, ice crystal morphology, and thawing quality",
+        "Water activity (aw) modification and drying methods",
+        "Hurdle technology: synergistic combinations of pH, aw, and temperature"
+      ],
+      "curriculum": [
+        {
+          "module": "Focus Area 1",
+          "title": "Theoretical Principles & Regulatory Context",
+          "topics": [
+            "Thermal lethality concepts, pasteurization, and commercial sterility",
+            "Freezing mechanics, ice crystal morphology, and thawing quality"
+          ]
+        },
+        {
+          "module": "Focus Area 2",
+          "title": "Practical Plant & Field Implementation",
+          "topics": [
+            "Water activity (aw) modification and drying methods",
+            "Hurdle technology: synergistic combinations of pH, aw, and temperature"
+          ]
+        },
+        {
+          "module": "Focus Area 3",
+          "title": "Industry Applications & Verification",
+          "topics": [
+            "Calculating thermal lethality (F0 values) for heat treatments",
+            "Measuring food water activity (aw) and equilibrium moisture content",
+            "Formulating multi-barrier hurdle preservation models for novel foods"
+          ]
+        }
+      ],
+      "eligibility": "Open to undergraduate and postgraduate students in B.Sc. Food Science and allied sciences.",
+      "certificate_details": "Haridra Certificate of Subject Completion upon active participation and practical assignment review.",
+      "featured": false,
+      "is_published": true,
+      "image_url": "/images/training-bsc-food-science.jpg",
+      "program_type": "student_subject",
+      "academic_track": "bsc-food-science",
+      "academic_category_name": "B.Sc. Food Science"
+    },
+    {
+      "id": 224,
+      "title": "Food Additives and Their Applications",
+      "slug": "food-additives-and-their-applications",
+      "code": "HFSA-BFSC-03",
+      "category_name": "B.Sc. Food Science",
+      "duration": "Flexible module sessions / Inquire for next academic cohort",
+      "delivery_mode": "Classroom / Formulation Practical / Hybrid Online",
+      "fee": "Student Concessions & Institutional Packages Available",
+      "is_eosh_accredited": false,
+      "accreditation_details": "Academic Enrichment & Industry Bridging Subject by Haridra Food Safety Assurance Pvt. Ltd. (Note: Haridra provides specialized industry training and does not award university degrees).",
+      "short_description": "Technological functional classes, INS numbering, Maximum Permissible Limits (MPL), and safety assessments.",
+      "full_description": "Food additives enhance texture, preservation, color, and stability. This subject provides in-depth technical knowledge of preservatives, emulsifiers, stabilizers, colorants, antioxidants, and leavening agents, alongside the Codex INS system and national regulatory permissible limits.",
+      "target_audience": [
+        "Food science students aiming for product development, formulation, and compliance roles.",
+        "Students enrolled in or pursuing B.Sc. Food Science",
+        "Graduates seeking industry-oriented practical food safety skills",
+        "Academic institutions seeking specialized technical workshops"
+      ],
+      "learning_outcomes": [
+        "Functional categories of intentional food additives",
+        "Safety evaluations: ADI (Acceptable Daily Intake) and NOAEL indices",
+        "Maximum Permissible Limits (MPL) across food categories",
+        "Clean-label reformulation and natural additive alternatives"
+      ],
+      "curriculum": [
+        {
+          "module": "Focus Area 1",
+          "title": "Theoretical Principles & Regulatory Context",
+          "topics": [
+            "Functional categories of intentional food additives",
+            "Safety evaluations: ADI (Acceptable Daily Intake) and NOAEL indices"
+          ]
+        },
+        {
+          "module": "Focus Area 2",
+          "title": "Practical Plant & Field Implementation",
+          "topics": [
+            "Maximum Permissible Limits (MPL) across food categories",
+            "Clean-label reformulation and natural additive alternatives"
+          ]
+        },
+        {
+          "module": "Focus Area 3",
+          "title": "Industry Applications & Verification",
+          "topics": [
+            "Calculating batch addition rates of preservatives within statutory limits",
+            "Verifying additive compliance from technical raw material data sheets",
+            "Conducting stability trials for emulsifier and antioxidant blends"
+          ]
+        }
+      ],
+      "eligibility": "Open to undergraduate and postgraduate students in B.Sc. Food Science and allied sciences.",
+      "certificate_details": "Haridra Certificate of Subject Completion upon active participation and practical assignment review.",
+      "featured": false,
+      "is_published": true,
+      "image_url": "/images/training-bsc-food-science.jpg",
+      "program_type": "student_subject",
+      "academic_track": "bsc-food-science",
+      "academic_category_name": "B.Sc. Food Science"
+    },
+    {
+      "id": 225,
+      "title": "Flavor Chemistry",
+      "slug": "flavor-chemistry",
+      "code": "HFSA-BFSC-04",
+      "category_name": "B.Sc. Food Science",
+      "duration": "Flexible module sessions / Inquire for next academic cohort",
+      "delivery_mode": "Classroom / Aroma Chemistry Demo / Hybrid",
+      "fee": "Student Concessions & Institutional Packages Available",
+      "is_eosh_accredited": false,
+      "accreditation_details": "Academic Enrichment & Industry Bridging Subject by Haridra Food Safety Assurance Pvt. Ltd. (Note: Haridra provides specialized industry training and does not award university degrees).",
+      "short_description": "Aroma volatiles, Maillard reaction pathways, extraction chemistry, flavor stability, and encapsulation.",
+      "full_description": "Flavor is a complex interaction of volatile aroma compounds and non-volatile taste molecules. Students explore chemical families of flavor (esters, aldehydes, terpenes, pyrazines), thermal reaction flavor generation (Maillard, caramelization), flavor degradation, and encapsulation technology.",
+      "target_audience": [
+        "Students interested in flavor houses, R&D sensory laboratories, and confectionery/beverage sciences.",
+        "Students enrolled in or pursuing B.Sc. Food Science",
+        "Graduates seeking industry-oriented practical food safety skills",
+        "Academic institutions seeking specialized technical workshops"
+      ],
+      "learning_outcomes": [
+        "Volatile aroma compounds and olfaction receptor mechanisms",
+        "Maillard reaction kinetics and cooked flavor chemistry",
+        "Natural flavor extraction and essential oil fractionation",
+        "Flavor stability, oxidation protection, and encapsulation techniques"
+      ],
+      "curriculum": [
+        {
+          "module": "Focus Area 1",
+          "title": "Theoretical Principles & Regulatory Context",
+          "topics": [
+            "Volatile aroma compounds and olfaction receptor mechanisms",
+            "Maillard reaction kinetics and cooked flavor chemistry"
+          ]
+        },
+        {
+          "module": "Focus Area 2",
+          "title": "Practical Plant & Field Implementation",
+          "topics": [
+            "Natural flavor extraction and essential oil fractionation",
+            "Flavor stability, oxidation protection, and encapsulation techniques"
+          ]
+        },
+        {
+          "module": "Focus Area 3",
+          "title": "Industry Applications & Verification",
+          "topics": [
+            "Assessing aroma profiles using standardized sensory wheels",
+            "Evaluating lipid oxidation and off-flavor development in foods",
+            "Reviewing flavor encapsulation performance in beverage and snack matrices"
+          ]
+        }
+      ],
+      "eligibility": "Open to undergraduate and postgraduate students in B.Sc. Food Science and allied sciences.",
+      "certificate_details": "Haridra Certificate of Subject Completion upon active participation and practical assignment review.",
+      "featured": false,
+      "is_published": true,
+      "image_url": "/images/training-bsc-food-science.jpg",
+      "program_type": "student_subject",
+      "academic_track": "bsc-food-science",
+      "academic_category_name": "B.Sc. Food Science"
+    },
+    {
+      "id": 226,
+      "title": "Plant-Based Foods and Nutrition",
+      "slug": "plant-based-foods-and-nutrition",
+      "code": "HFSA-BFSC-05",
+      "category_name": "B.Sc. Food Science",
+      "duration": "Flexible module sessions / Inquire for next academic cohort",
+      "delivery_mode": "Classroom / Product Workshop / Hybrid Online",
+      "fee": "Student Concessions & Institutional Packages Available",
+      "is_eosh_accredited": false,
+      "accreditation_details": "Academic Enrichment & Industry Bridging Subject by Haridra Food Safety Assurance Pvt. Ltd. (Note: Haridra provides specialized industry training and does not award university degrees).",
+      "short_description": "Plant protein functionality, alternative dairy/meat formulation, nutritional profiling, and clean-label processing.",
+      "full_description": "The plant-based food sector is rapidly evolving. This subject covers plant protein extraction (pea, soy, oat, faba), texturization technology (extrusion, shear cell), anti-nutritional factors (phytates, lectins), micronutrient fortification, and clean-label formulation.",
+      "target_audience": [
+        "Students aspiring to modern food tech, alternative protein innovation, and nutritional science.",
+        "Students enrolled in or pursuing B.Sc. Food Science",
+        "Graduates seeking industry-oriented practical food safety skills",
+        "Academic institutions seeking specialized technical workshops"
+      ],
+      "learning_outcomes": [
+        "Functional properties of plant proteins: solubility, gelation, emulsification",
+        "Extrusion and texturization techniques for meat analogs",
+        "De-flavoring plant proteins and masking beany off-notes",
+        "Nutritional equivalence, amino acid scoring, and allergen oversight"
+      ],
+      "curriculum": [
+        {
+          "module": "Focus Area 1",
+          "title": "Theoretical Principles & Regulatory Context",
+          "topics": [
+            "Functional properties of plant proteins: solubility, gelation, emulsification",
+            "Extrusion and texturization techniques for meat analogs"
+          ]
+        },
+        {
+          "module": "Focus Area 2",
+          "title": "Practical Plant & Field Implementation",
+          "topics": [
+            "De-flavoring plant proteins and masking beany off-notes",
+            "Nutritional equivalence, amino acid scoring, and allergen oversight"
+          ]
+        },
+        {
+          "module": "Focus Area 3",
+          "title": "Industry Applications & Verification",
+          "topics": [
+            "Formulating balanced plant-based beverage and protein alternative bases",
+            "Evaluating anti-nutritional reduction through thermal and fermentation methods",
+            "Verifying nutritional profile and amino acid completeness against standards"
+          ]
+        }
+      ],
+      "eligibility": "Open to undergraduate and postgraduate students in B.Sc. Food Science and allied sciences.",
+      "certificate_details": "Haridra Certificate of Subject Completion upon active participation and practical assignment review.",
+      "featured": false,
+      "is_published": true,
+      "image_url": "/images/training-bsc-food-science.jpg",
+      "program_type": "student_subject",
+      "academic_track": "bsc-food-science",
+      "academic_category_name": "B.Sc. Food Science"
+    },
+    {
+      "id": 227,
+      "title": "Customer Service Excellence",
+      "slug": "customer-service-excellence",
+      "code": "HFSA-BHTM-01",
+      "category_name": "B.Sc. Hotel Management",
+      "duration": "Flexible module sessions / Inquire for next academic cohort",
+      "delivery_mode": "Service Simulation / Interactive Workshop / Classroom",
+      "fee": "Student Concessions & Institutional Packages Available",
+      "is_eosh_accredited": false,
+      "accreditation_details": "Academic Enrichment & Industry Bridging Subject by Haridra Food Safety Assurance Pvt. Ltd. (Note: Haridra provides specialized industry training and does not award university degrees).",
+      "short_description": "Guest journey mapping, luxury hospitality etiquette, allergy and dietary communication, and crisis recovery.",
+      "full_description": "Delivering exceptional hospitality requires flawless service delivery and acute food safety communication. This subject teaches guest touchpoint management, luxury service standards, safe handling of guest allergy requests, service recovery during operational errors, and hospitality leadership.",
+      "target_audience": [
+        "Hotel management students preparing for front office, guest relations, and F&B service leadership.",
+        "Students enrolled in or pursuing B.Sc. Hotel Management",
+        "Graduates seeking industry-oriented practical food safety skills",
+        "Academic institutions seeking specialized technical workshops"
+      ],
+      "learning_outcomes": [
+        "Guest expectations and touchpoint design in commercial hospitality",
+        "Communication protocols for dietary restrictions and severe allergens",
+        "Service recovery frameworks (HEAR / LAST methodologies)",
+        "Customer satisfaction measurement and feedback analysis"
+      ],
+      "curriculum": [
+        {
+          "module": "Focus Area 1",
+          "title": "Theoretical Principles & Regulatory Context",
+          "topics": [
+            "Guest expectations and touchpoint design in commercial hospitality",
+            "Communication protocols for dietary restrictions and severe allergens"
+          ]
+        },
+        {
+          "module": "Focus Area 2",
+          "title": "Practical Plant & Field Implementation",
+          "topics": [
+            "Service recovery frameworks (HEAR / LAST methodologies)",
+            "Customer satisfaction measurement and feedback analysis"
+          ]
+        },
+        {
+          "module": "Focus Area 3",
+          "title": "Industry Applications & Verification",
+          "topics": [
+            "Simulating front-of-house guest dietary requirement briefing",
+            "Role-playing service escalation and complaint resolution",
+            "Conducting service audit walkthroughs in dining environments"
+          ]
+        }
+      ],
+      "eligibility": "Open to undergraduate and postgraduate students in B.Sc. Hotel Management and allied sciences.",
+      "certificate_details": "Haridra Certificate of Subject Completion upon active participation and practical assignment review.",
+      "featured": false,
+      "is_published": true,
+      "image_url": "/images/training-bsc-hotel-mgmt.jpg",
+      "program_type": "student_subject",
+      "academic_track": "bsc-hotel-mgmt",
+      "academic_category_name": "B.Sc. Hotel Management"
+    },
+    {
+      "id": 228,
+      "title": "Food and Beverage Management",
+      "slug": "food-and-beverage-management",
+      "code": "HFSA-BHTM-02",
+      "category_name": "B.Sc. Hotel Management",
+      "duration": "Flexible module sessions / Inquire for next academic cohort",
+      "delivery_mode": "Commercial Kitchen Practical / Classroom / Hybrid",
+      "fee": "Student Concessions & Institutional Packages Available",
+      "is_eosh_accredited": false,
+      "accreditation_details": "Academic Enrichment & Industry Bridging Subject by Haridra Food Safety Assurance Pvt. Ltd. (Note: Haridra provides specialized industry training and does not award university degrees).",
+      "short_description": "Commercial kitchen hygiene, food cost controls, menu engineering, and buffet temperature compliance.",
+      "full_description": "F&B operations demand strict coordination between culinary production, hygiene compliance, and financial profitability. This subject covers kitchen sanitation zoning, raw food receiving procedures, buffet temperature holding, menu engineering, and food safety record-keeping.",
+      "target_audience": [
+        "Hospitality students targeting executive chef, sous chef, and F&B director roles.",
+        "Students enrolled in or pursuing B.Sc. Hotel Management",
+        "Graduates seeking industry-oriented practical food safety skills",
+        "Academic institutions seeking specialized technical workshops"
+      ],
+      "learning_outcomes": [
+        "Commercial kitchen layout, sanitation zoning, and cross-contamination prevention",
+        "Temperature controls: hot-holding, blast chilling, and refrigerated display",
+        "Menu planning, food cost calculation, and portion standardization",
+        "Kitchen inspection checklists and health department readiness"
+      ],
+      "curriculum": [
+        {
+          "module": "Focus Area 1",
+          "title": "Theoretical Principles & Regulatory Context",
+          "topics": [
+            "Commercial kitchen layout, sanitation zoning, and cross-contamination prevention",
+            "Temperature controls: hot-holding, blast chilling, and refrigerated display"
+          ]
+        },
+        {
+          "module": "Focus Area 2",
+          "title": "Practical Plant & Field Implementation",
+          "topics": [
+            "Menu planning, food cost calculation, and portion standardization",
+            "Kitchen inspection checklists and health department readiness"
+          ]
+        },
+        {
+          "module": "Focus Area 3",
+          "title": "Industry Applications & Verification",
+          "topics": [
+            "Maintaining hot and cold food holding temperature log sheets",
+            "Conducting kitchen hygiene audits using standard regulatory forms",
+            "Calculating portion costs and waste variance across prep shifts"
+          ]
+        }
+      ],
+      "eligibility": "Open to undergraduate and postgraduate students in B.Sc. Hotel Management and allied sciences.",
+      "certificate_details": "Haridra Certificate of Subject Completion upon active participation and practical assignment review.",
+      "featured": false,
+      "is_published": true,
+      "image_url": "/images/training-bsc-hotel-mgmt.jpg",
+      "program_type": "student_subject",
+      "academic_track": "bsc-hotel-mgmt",
+      "academic_category_name": "B.Sc. Hotel Management"
+    },
+    {
+      "id": 229,
+      "title": "Event Planning Basics",
+      "slug": "event-planning-basics",
+      "code": "HFSA-BHTM-03",
+      "category_name": "B.Sc. Hotel Management",
+      "duration": "Flexible module sessions / Inquire for next academic cohort",
+      "delivery_mode": "Classroom / Event Simulation / Interactive Seminar",
+      "fee": "Student Concessions & Institutional Packages Available",
+      "is_eosh_accredited": false,
+      "accreditation_details": "Academic Enrichment & Industry Bridging Subject by Haridra Food Safety Assurance Pvt. Ltd. (Note: Haridra provides specialized industry training and does not award university degrees).",
+      "short_description": "High-volume banquet operations, outdoor catering hygiene, event timelines, and crowd management.",
+      "full_description": "Large events and banquet operations present unique food safety and logistical challenges. This subject covers event run-sheet creation, bulk food transport safety, temporary satellite kitchen setups, banquet buffet turnover, and hygiene compliance during mass catering.",
+      "target_audience": [
+        "Students aspiring to banquet management, convention sales, and corporate event planning.",
+        "Students enrolled in or pursuing B.Sc. Hotel Management",
+        "Graduates seeking industry-oriented practical food safety skills",
+        "Academic institutions seeking specialized technical workshops"
+      ],
+      "learning_outcomes": [
+        "Banquet and catering event run-sheets and operational planning",
+        "Transporting hot and cold bulk foods safely to off-premise venues",
+        "Temporary water supply and waste disposal for outdoor events",
+        "Mass gathering crowd flow, hand sanitation, and safety oversight"
+      ],
+      "curriculum": [
+        {
+          "module": "Focus Area 1",
+          "title": "Theoretical Principles & Regulatory Context",
+          "topics": [
+            "Banquet and catering event run-sheets and operational planning",
+            "Transporting hot and cold bulk foods safely to off-premise venues"
+          ]
+        },
+        {
+          "module": "Focus Area 2",
+          "title": "Practical Plant & Field Implementation",
+          "topics": [
+            "Temporary water supply and waste disposal for outdoor events",
+            "Mass gathering crowd flow, hand sanitation, and safety oversight"
+          ]
+        },
+        {
+          "module": "Focus Area 3",
+          "title": "Industry Applications & Verification",
+          "topics": [
+            "Drafting an event food safety management plan for a 500+ guest banquet",
+            "Establishing time-temperature monitoring logs for satellite catering",
+            "Conducting vendor and subcontractor food hygiene verifications"
+          ]
+        }
+      ],
+      "eligibility": "Open to undergraduate and postgraduate students in B.Sc. Hotel Management and allied sciences.",
+      "certificate_details": "Haridra Certificate of Subject Completion upon active participation and practical assignment review.",
+      "featured": false,
+      "is_published": true,
+      "image_url": "/images/training-bsc-hotel-mgmt.jpg",
+      "program_type": "student_subject",
+      "academic_track": "bsc-hotel-mgmt",
+      "academic_category_name": "B.Sc. Hotel Management"
+    },
+    {
+      "id": 230,
+      "title": "Sustainable Hospitality Practices",
+      "slug": "sustainable-hospitality-practices",
+      "code": "HFSA-BHTM-04",
+      "category_name": "B.Sc. Hotel Management",
+      "duration": "Flexible module sessions / Inquire for next academic cohort",
+      "delivery_mode": "Classroom / Sustainability Audit Workshop / Hybrid",
+      "fee": "Student Concessions & Institutional Packages Available",
+      "is_eosh_accredited": false,
+      "accreditation_details": "Academic Enrichment & Industry Bridging Subject by Haridra Food Safety Assurance Pvt. Ltd. (Note: Haridra provides specialized industry training and does not award university degrees).",
+      "short_description": "Zero-food-waste kitchen routines, single-use plastic reduction, eco-procurement, and energy-efficient kitchens.",
+      "full_description": "Sustainable hospitality is a core priority for modern hotels and restaurants. Students explore commercial kitchen food waste measurement, composting and bio-methanation, single-use plastic elimination, sustainable local food procurement, and eco-certified hospitality benchmarking.",
+      "target_audience": [
+        "Undergraduates targeting luxury resort management, environmental auditing, and hospitality consulting.",
+        "Students enrolled in or pursuing B.Sc. Hotel Management",
+        "Graduates seeking industry-oriented practical food safety skills",
+        "Academic institutions seeking specialized technical workshops"
+      ],
+      "learning_outcomes": [
+        "Kitchen waste tracking and circular food recycling systems",
+        "Energy and water efficiency in commercial kitchen equipment",
+        "Sustainable procurement and fair-trade ingredient sourcing",
+        "Eco-certifications and environmental management systems (EMS)"
+      ],
+      "curriculum": [
+        {
+          "module": "Focus Area 1",
+          "title": "Theoretical Principles & Regulatory Context",
+          "topics": [
+            "Kitchen waste tracking and circular food recycling systems",
+            "Energy and water efficiency in commercial kitchen equipment"
+          ]
+        },
+        {
+          "module": "Focus Area 2",
+          "title": "Practical Plant & Field Implementation",
+          "topics": [
+            "Sustainable procurement and fair-trade ingredient sourcing",
+            "Eco-certifications and environmental management systems (EMS)"
+          ]
+        },
+        {
+          "module": "Focus Area 3",
+          "title": "Industry Applications & Verification",
+          "topics": [
+            "Performing a kitchen food waste audit and identifying prevention points",
+            "Drafting an institutional single-use plastic phaseout roadmap",
+            "Developing a green hotel dining operational checklist"
+          ]
+        }
+      ],
+      "eligibility": "Open to undergraduate and postgraduate students in B.Sc. Hotel Management and allied sciences.",
+      "certificate_details": "Haridra Certificate of Subject Completion upon active participation and practical assignment review.",
+      "featured": false,
+      "is_published": true,
+      "image_url": "/images/training-bsc-hotel-mgmt.jpg",
+      "program_type": "student_subject",
+      "academic_track": "bsc-hotel-mgmt",
+      "academic_category_name": "B.Sc. Hotel Management"
+    },
+    {
+      "id": 231,
+      "title": "Basic Bar Management and Mixology",
+      "slug": "basic-bar-management-and-mixology",
+      "code": "HFSA-BHTM-05",
+      "category_name": "B.Sc. Hotel Management",
+      "duration": "Flexible module sessions / Inquire for next academic cohort",
+      "delivery_mode": "Beverage Lab / Bar Simulation / Classroom",
+      "fee": "Student Concessions & Institutional Packages Available",
+      "is_eosh_accredited": false,
+      "accreditation_details": "Academic Enrichment & Industry Bridging Subject by Haridra Food Safety Assurance Pvt. Ltd. (Note: Haridra provides specialized industry training and does not award university degrees).",
+      "short_description": "Bar sanitation standards, ice hygiene, glassware cleaning protocols, beverage inventory, and responsible service.",
+      "full_description": "Bar operations require precise sanitation standards alongside beverage craft. This subject covers ice machine microbiological hygiene, glasswashing temperature verification, draught line cleaning schedules, garnish preparation safety, responsible alcohol service, and bar inventory controls.",
+      "target_audience": [
+        "Hospitality students preparing for bar management, beverage directorship, and restaurant supervision.",
+        "Students enrolled in or pursuing B.Sc. Hotel Management",
+        "Graduates seeking industry-oriented practical food safety skills",
+        "Academic institutions seeking specialized technical workshops"
+      ],
+      "learning_outcomes": [
+        "Bar station layout, speed rails, and sanitary workflow design",
+        "Ice machine sanitation and ice scoop storage contamination prevention",
+        "Glassware cleaning, chemical sanitizing, and beer-clean glass standards",
+        "Draught beer line maintenance and cocktail ingredient freshness control"
+      ],
+      "curriculum": [
+        {
+          "module": "Focus Area 1",
+          "title": "Theoretical Principles & Regulatory Context",
+          "topics": [
+            "Bar station layout, speed rails, and sanitary workflow design",
+            "Ice machine sanitation and ice scoop storage contamination prevention"
+          ]
+        },
+        {
+          "module": "Focus Area 2",
+          "title": "Practical Plant & Field Implementation",
+          "topics": [
+            "Glassware cleaning, chemical sanitizing, and beer-clean glass standards",
+            "Draught beer line maintenance and cocktail ingredient freshness control"
+          ]
+        },
+        {
+          "module": "Focus Area 3",
+          "title": "Industry Applications & Verification",
+          "topics": [
+            "Performing bar opening and closing hygiene walkthrough checklists",
+            "Executing draught line chemical sanitization and rinse verification",
+            "Logging garnish shelf-life and safe temperature holding"
+          ]
+        }
+      ],
+      "eligibility": "Open to undergraduate and postgraduate students in B.Sc. Hotel Management and allied sciences.",
+      "certificate_details": "Haridra Certificate of Subject Completion upon active participation and practical assignment review.",
+      "featured": false,
+      "is_published": true,
+      "image_url": "/images/training-bsc-hotel-mgmt.jpg",
+      "program_type": "student_subject",
+      "academic_track": "bsc-hotel-mgmt",
+      "academic_category_name": "B.Sc. Hotel Management"
+    }
   ]
 }

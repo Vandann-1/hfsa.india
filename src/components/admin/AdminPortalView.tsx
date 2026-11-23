@@ -1198,7 +1198,7 @@ export default function AdminPortalView({
                             EOSH UK Scope
                           </span>
                         )}
-                        <span className="text-xs font-semibold text-slate-600">Level: {course.level}</span>
+                        <span className="text-xs font-semibold text-slate-600">{course.category_name || "Program"}</span>
                       </div>
                       <h3 className="text-base font-heading font-black text-black">
                         {course.title}
@@ -1591,6 +1591,8 @@ export default function AdminPortalView({
                     <option value="quality_assurance">Quality Assurance</option>
                     <option value="technical_consultancy">Technical Advisory</option>
                     <option value="training">Training Programs</option>
+                    <option value="student_training">Student Academic Training</option>
+                    <option value="professional_training">Professional Award Training</option>
                     <option value="collaboration">University MoU</option>
                     <option value="general">General</option>
                   </select>
@@ -1686,16 +1688,15 @@ export default function AdminPortalView({
                   />
                 </div>
                 <div>
-                  <label className="block font-bold text-black mb-1">Level</label>
+                  <label className="block font-bold text-black mb-1">Program Track</label>
                   <select
                     value={newCourseForm.level}
                     onChange={(e) => setNewCourseForm({ ...newCourseForm, level: e.target.value })}
                     className="w-full p-2.5 rounded-xl border border-slate-300 font-bold"
                   >
-                    <option value="Foundational">Foundational</option>
-                    <option value="Intermediate">Intermediate</option>
-                    <option value="Advanced">Advanced</option>
-                    <option value="Accredited">Accredited</option>
+                    <option value="Professional Award">Professional Award</option>
+                    <option value="Academic Subject">Academic Subject</option>
+                    <option value="Institutional Cohort">Institutional Cohort</option>
                   </select>
                 </div>
               </div>

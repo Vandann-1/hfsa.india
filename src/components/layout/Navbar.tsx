@@ -69,12 +69,12 @@ export default function Navbar() {
     { title: "Academic Collaboration", href: "/services/industry-academia-collaboration", icon: Users, desc: "University MoUs & bootcamps" },
   ];
 
-  const trainingList = [
-    { title: "HACCP Implementation Practitioner", href: "/training-programs/haccp-implementation-practitioner", level: "Intermediate", tag: "Industry Core" },
-    { title: "Food Safety Internal Auditor", href: "/training-programs/food-safety-internal-auditor", level: "Advanced", tag: "Auditor Track" },
-    { title: "EOSH UK Hygiene Practitioner", href: "/training-programs/eosh-food-safety-hygiene-practitioner", level: "Accredited", badge: "EOSH UK" },
-    { title: "Good Manufacturing Practices (GMP)", href: "/training-programs/good-manufacturing-practices-gmp", level: "Foundational", tag: "Plant Operations" },
-    { title: "Student & Career Starter Bootcamp", href: "/training-programs/food-safety-student-career-bootcamp", level: "Foundational", tag: "Fast Track" },
+  const trainingList: { title: string; href: string; tag?: string; badge?: string }[] = [
+    { title: "Award in Food Safety Management", href: "/training-programs/award-in-food-safety-management", tag: "Management Qualification" },
+    { title: "Award in Basic Food Safety", href: "/training-programs/award-in-basic-food-safety", tag: "Foundational Award" },
+    { title: "Award in Food Quality Control (FQC)", href: "/training-programs/award-in-food-quality-control-fqc", tag: "QC & Laboratory" },
+    { title: "Award in Food Safety Manufacturing", href: "/training-programs/award-in-food-safety-manufacturing", tag: "Plant Operations" },
+    { title: "Student Academic Specializations", href: "/training-programs#academic-backgrounds", tag: "4 Degree Tracks" },
   ];
 
   const resourcesList = [
@@ -296,8 +296,7 @@ export default function Navbar() {
                             {item.title}
                           </div>
                           <div className="text-xs text-gray-600 font-medium flex items-center gap-2">
-                            <span>Level: {item.level}</span>
-                            {item.tag && <span className="text-[10px] font-bold text-[#1b5e20]">({item.tag})</span>}
+                            {item.tag && <span className="text-[10px] font-bold text-[#1b5e20]">{item.tag}</span>}
                           </div>
                         </div>
                         {item.badge && (

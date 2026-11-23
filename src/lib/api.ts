@@ -10,7 +10,9 @@ import {
   FALLBACK_ARTICLES,
   FALLBACK_TEAM,
   FALLBACK_METRICS,
-  FALLBACK_ENQUIRIES
+  FALLBACK_ENQUIRIES,
+  FALLBACK_ACADEMIC_CATEGORIES,
+  FALLBACK_PROFESSIONAL_AWARDS
 } from './mockData';
 
 export interface EnquiryInput {
@@ -18,10 +20,16 @@ export interface EnquiryInput {
   email: string;
   phone: string;
   organization?: string;
-  enquiry_type: 'consultancy' | 'audit' | 'quality_assurance' | 'technical_consultancy' | 'training' | 'collaboration' | 'general';
+  enquiry_type: 'consultancy' | 'audit' | 'quality_assurance' | 'technical_consultancy' | 'training' | 'student_training' | 'professional_training' | 'collaboration' | 'general';
   course_name?: string;
   subject: string;
   message: string;
+  academic_background?: string;
+  institution_name?: string;
+  year_of_study?: string;
+  designation?: string;
+  participants_count?: string;
+  preferred_mode?: string;
 }
 
 export interface EnquiryItem extends EnquiryInput {
@@ -38,6 +46,34 @@ export interface CourseModule {
   topics: string[];
 }
 
+export interface StudentSubjectItem {
+  id: string;
+  slug: string;
+  title: string;
+  academicTrack: 'btech-food-tech' | 'bsc-agriculture' | 'bsc-food-science' | 'bsc-hotel-mgmt';
+  academicCategoryName: string;
+  degreeLabel: string;
+  code: string;
+  shortDescription: string;
+  overview: string;
+  focusAreas: string[];
+  practicalApplications: string[];
+  recommendedFor: string;
+  deliveryModePlaceholder: string;
+  schedulePlaceholder: string;
+  image: string;
+}
+
+export interface AcademicCategory {
+  id: string;
+  title: string;
+  degreeLabel: string;
+  slug: string;
+  intro: string;
+  image: string;
+  subjects: StudentSubjectItem[];
+}
+
 export interface CourseItem {
   id: number;
   title: string;
@@ -45,7 +81,7 @@ export interface CourseItem {
   code: string;
   category?: number;
   category_name?: string;
-  level: string;
+  level?: string;
   duration: string;
   delivery_mode: string;
   fee: string;
@@ -61,6 +97,10 @@ export interface CourseItem {
   featured: boolean;
   is_published: boolean;
   image_url?: string;
+  program_type?: 'professional_award' | 'student_subject';
+  academic_track?: string;
+  academic_category_name?: string;
+  practical_applications?: string[];
 }
 
 export interface ServiceWorkflowStep {
@@ -230,6 +270,20 @@ export const api = {
       }
     }
     return FALLBACK_COURSES.find((c) => c.slug === slug) || null;
+  },
+
+  async getAcademicCategories(): Promise<AcademicCategory[]> {
+    return FALLBACK_ACADEMIC_CATEGORIES;
+  },
+
+  async getStudentSubjects(track?: string): Promise<StudentSubjectItem[]> {
+    const all = FALLBACK_ACADEMIC_CATEGORIES.flatMap(c => c.subjects);
+    if (track) return all.filter(s => s.academicTrack === track);
+    return all;
+  },
+
+  async getProfessionalAwards(): Promise<CourseItem[]> {
+    return FALLBACK_PROFESSIONAL_AWARDS;
   },
 
   // Industries

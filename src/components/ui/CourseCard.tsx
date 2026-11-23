@@ -40,17 +40,17 @@ export default function CourseCard({ course }: CourseCardProps) {
           {/* Top Badges (if no image) */}
           {!course.image_url && (
             <div className="flex items-center justify-between gap-2 mb-4">
-              <span className="text-[11px] font-mono font-bold px-2.5 py-1 rounded-lg bg-[#e8f5e9] text-[#2e7d32]">
+              <span className="text-[11px] font-mono font-bold px-2.5 py-1 rounded-lg bg-[#E5F1FA] text-[#153653]">
                 {course.code}
               </span>
               {course.is_eosh_accredited ? (
-                <span className="inline-flex items-center gap-1.5 text-[11px] font-bold px-2.5 py-1 rounded-lg bg-emerald-50 text-emerald-800 border border-emerald-200">
-                  <Award className="w-3.5 h-3.5 text-[#2e7d32]" />
+                <span className="inline-flex items-center gap-1.5 text-[11px] font-bold px-2.5 py-1 rounded-lg bg-[#E5F1FA] text-[#153653] border border-[#347EB7]/30">
+                  <Award className="w-3.5 h-3.5 text-[#347EB7]" />
                   <span>EOSH UK Accredited</span>
                 </span>
               ) : (
-                <span className="text-[11px] font-semibold px-2.5 py-1 rounded-lg bg-slate-100 text-slate-700">
-                  {course.level} Level
+                <span className="text-[11px] font-semibold px-2.5 py-1 rounded-lg bg-[#F5F7F9] text-[#253443] border border-slate-200">
+                  {course.category_name || "Technical Training"}
                 </span>
               )}
             </div>
