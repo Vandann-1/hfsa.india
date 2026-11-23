@@ -1,0 +1,47 @@
+{
+  "enquiries": [
+    {
+      "id": 1,
+      "full_name": "Dr. Ramesh Kulkarni",
+      "email": "dean.foodtech@exemplar-univ.ac.in",
+      "phone": "+91 98230 11223",
+      "organization": "Exemplar University Department of Food Science",
+      "enquiry_type": "collaboration",
+      "subject": "Institutional MoU for 2026-27 Final Year Student Training",
+      "message": "We would like to explore partnering with Haridra to deliver an on-campus HACCP and Food Safety Practitioner certificate course for our graduating cohort of 60 students.",
+      "status": "new",
+      "internal_notes": "Follow up with academic liaison team to schedule introductory video conference.",
+      "created_at": "2026-11-21T10:30:00Z",
+      "updated_at": "2026-11-21T10:30:00Z"
+    },
+    {
+      "id": 2,
+      "full_name": "Sunita Menon",
+      "email": "sunita.menon@apollocatering.com",
+      "phone": "+91 97401 55678",
+      "organization": "Apollo Central Kitchens Pvt. Ltd.",
+      "enquiry_type": "audit",
+      "subject": "Pre-Inspection Diagnostic Food Safety Audit",
+      "message": "We operate two central commissaries supplying 45 outlets. We require a comprehensive hygiene and HACCP compliance audit across both facilities next month.",
+      "status": "in_progress",
+      "internal_notes": "Diagnostic audit scope document sent via email. Awaiting facility floor plans.",
+      "created_at": "2026-11-20T14:45:00Z",
+      "updated_at": "2026-11-21T09:15:00Z"
+    },
+    {
+      "id": 3,
+      "full_name": "Arjun Singhal",
+      "email": "arjun.singhal@freshharvestfoods.co",
+      "phone": "+91 98112 33445",
+      "organization": "Fresh Harvest Packaged Foods",
+      "enquiry_type": "training",
+      "course_name": "Food Safety Internal Auditor Certification",
+      "subject": "Corporate Cohort Enrollment for 8 QA Executives",
+      "message": "We want to enroll our internal QA and line supervisors in the upcoming batch of the Food Safety Internal Auditor course. Please share group pricing and scheduling details.",
+      "status": "contacted",
+      "internal_notes": "Spoke on phone on Nov 20. Sent corporate proposal with 15% group concession.",
+      "created_at": "2026-11-19T16:20:00Z",
+      "updated_at": "2026-11-20T11:00:00Z"
+    }
+  ]
+}

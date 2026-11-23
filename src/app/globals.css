@@ -1,23 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Plus+Jakarta+Sans:wght@500;600;700;800&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --primary-navy: #004B87;
+  --corporate-blue: #004B87;
+  --forest-green: #2E7D32;
+  --fresh-green: #4CAF50;
+  --fresh-light: #81C784;
+  --off-white: #F8FAF8;
+  --light-surface: #EEF4EF;
+  --charcoal: #1A2530;
+  --muted-text: #546575;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+html {
+  scroll-behavior: smooth;
+  color-scheme: light;
 }
 
 body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+  color: var(--charcoal);
+  background-color: var(--off-white);
+  font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Headings: Strict Solid Black (#000000) - Never Grey */
+h1, h2, h3, h4, h5, h6 {
+  color: #000000;
+}
+
+/* Glassmorphism and layered styling */
+.glass-nav {
+  background: rgba(255, 255, 255, 0.94);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+}
+
+.glass-nav-dark {
+  background: rgba(0, 75, 135, 0.95);
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+}
+
+.hero-mesh-gradient {
+  background: radial-gradient(circle at 12% 18%, rgba(0, 75, 135, 0.10) 0%, transparent 45%),
+              radial-gradient(circle at 88% 30%, rgba(76, 175, 80, 0.12) 0%, transparent 50%),
+              radial-gradient(circle at 50% 80%, rgba(129, 199, 132, 0.08) 0%, transparent 60%);
+}
+
+.navy-hero-gradient {
+  background: linear-gradient(135deg, #002b4e 0%, #004B87 55%, #003a68 100%);
+}
+
+.navy-card-gradient {
+  background: linear-gradient(145deg, #002340 0%, #004B87 100%);
+}
+
+.green-accent-gradient {
+  background: linear-gradient(135deg, #4CAF50 0%, #388E3C 100%);
+}
+
+.badge-eosh {
+  background: linear-gradient(135deg, rgba(76, 175, 80, 0.12) 0%, rgba(129, 199, 132, 0.22) 100%);
+  border: 1px solid rgba(76, 175, 80, 0.35);
+}
+
+/* Text balance and typography refinements */
+.heading-kerning {
+  letter-spacing: -0.022em;
+}
+
+.subheading-kerning {
+  letter-spacing: -0.012em;
+}
+
+/* Custom subtle scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #EDF3F0;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #B6C6C0;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #8A97A2;
 }
 
 @layer utilities {
